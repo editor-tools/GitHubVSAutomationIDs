@@ -1,0 +1,2 @@
+# AutomationIDResource
+Static automation IDs
