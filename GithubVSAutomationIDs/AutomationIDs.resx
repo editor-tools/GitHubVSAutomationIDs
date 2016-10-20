@@ -123,7 +123,28 @@
   <data name="Modal_LogIn" xml:space="preserve">
     <value>A6E2404F-5526-42E1-AF59-58C1C78B9C1A</value>
   </data>
+  <data name="Modal_RepositoryClone" xml:space="preserve">
+    <value>9ABC39DE-13EA-4705-B461-35B9AE6F8E82</value>
+  </data>
+  <data name="Modal_RepositoryCreate" xml:space="preserve">
+    <value>9768F66E-4C25-42E5-B4B8-15B7CF5BA254</value>
+  </data>
+  <data name="Modal_TwoFactorAuthentication" xml:space="preserve">
+    <value>1B63773B-3864-4CBD-8DA2-85D0B2CBB127</value>
+  </data>
+  <data name="Panel_InfoPanel" xml:space="preserve">
+    <value>D1B99F04-3017-4A40-9669-79E1215C9B6D</value>
+  </data>
   <data name="Pane_GitHub" xml:space="preserve">
     <value>1832073F-538B-414A-8849-82192E4B5BC4</value>
+  </data>
+  <data name="Pane_PullRequestCreation" xml:space="preserve">
+    <value>D90E8907-A0B7-44B5-9D8F-FCDC2D891B7E</value>
+  </data>
+  <data name="Pane_PullRequestDetail" xml:space="preserve">
+    <value>70901982-B7DF-467C-91F2-672A92A8C3E1</value>
+  </data>
+  <data name="Pane_PullRequestList" xml:space="preserve">
+    <value>D031AB2C-E81A-4926-97ED-2F19DD3BABB7</value>
   </data>
 </root>

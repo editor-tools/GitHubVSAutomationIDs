@@ -79,11 +79,74 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 9ABC39DE-13EA-4705-B461-35B9AE6F8E82.
+        /// </summary>
+        public static string Modal_RepositoryClone {
+            get {
+                return ResourceManager.GetString("Modal_RepositoryClone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 9768F66E-4C25-42E5-B4B8-15B7CF5BA254.
+        /// </summary>
+        public static string Modal_RepositoryCreate {
+            get {
+                return ResourceManager.GetString("Modal_RepositoryCreate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1B63773B-3864-4CBD-8DA2-85D0B2CBB127.
+        /// </summary>
+        public static string Modal_TwoFactorAuthentication {
+            get {
+                return ResourceManager.GetString("Modal_TwoFactorAuthentication", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 1832073F-538B-414A-8849-82192E4B5BC4.
         /// </summary>
         public static string Pane_GitHub {
             get {
                 return ResourceManager.GetString("Pane_GitHub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to D90E8907-A0B7-44B5-9D8F-FCDC2D891B7E.
+        /// </summary>
+        public static string Pane_PullRequestCreation {
+            get {
+                return ResourceManager.GetString("Pane_PullRequestCreation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 70901982-B7DF-467C-91F2-672A92A8C3E1.
+        /// </summary>
+        public static string Pane_PullRequestDetail {
+            get {
+                return ResourceManager.GetString("Pane_PullRequestDetail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to D031AB2C-E81A-4926-97ED-2F19DD3BABB7.
+        /// </summary>
+        public static string Pane_PullRequestList {
+            get {
+                return ResourceManager.GetString("Pane_PullRequestList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to D1B99F04-3017-4A40-9669-79E1215C9B6D.
+        /// </summary>
+        public static string Panel_InfoPanel {
+            get {
+                return ResourceManager.GetString("Panel_InfoPanel", resourceCulture);
             }
         }
     }
