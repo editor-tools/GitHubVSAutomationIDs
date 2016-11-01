@@ -61,6 +61,33 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Button_PullRequestCancel {
+            get {
+                return ResourceManager.GetString("Button_PullRequestCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Button_PullRequestCreate {
+            get {
+                return ResourceManager.GetString("Button_PullRequestCreate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string DropDown_PullRequestTargetBranch {
+            get {
+                return ResourceManager.GetString("DropDown_PullRequestTargetBranch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 38E80A12-5E56-4E1B-9A0C-C71E503DAA76.
         /// </summary>
         public static string Modal_Gist {
@@ -147,6 +174,24 @@ namespace GithubVSAutomationIDs {
         public static string Panel_InfoPanel {
             get {
                 return ResourceManager.GetString("Panel_InfoPanel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string TextBox_PullRequestDescription {
+            get {
+                return ResourceManager.GetString("TextBox_PullRequestDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string TextBox_PullRequestTitle {
+            get {
+                return ResourceManager.GetString("TextBox_PullRequestTitle", resourceCulture);
             }
         }
     }
