@@ -141,25 +141,31 @@
   <data name="Pane_PullRequestCreation" xml:space="preserve">
     <value>D90E8907-A0B7-44B5-9D8F-FCDC2D891B7E</value>
   </data>
-  <data name="Pane_PullRequestDetail" xml:space="preserve">
+  <data name="Pane_PullRequestCreationDetail" xml:space="preserve">
     <value>70901982-B7DF-467C-91F2-672A92A8C3E1</value>
   </data>
   <data name="Pane_PullRequestList" xml:space="preserve">
     <value>D031AB2C-E81A-4926-97ED-2F19DD3BABB7</value>
   </data>
-  <data name="Button_PullRequestCancel" xml:space="preserve">
-    <value />
+  <data name="Button_PullRequestCreationCancel" xml:space="preserve">
+    <value>8FE5A4A9-2E3C-48D4-8351-8D4D959BD6F4</value>
   </data>
-  <data name="Button_PullRequestCreate" xml:space="preserve">
-    <value />
+  <data name="Button_PullRequestCreationCreate" xml:space="preserve">
+    <value>24E9EB8A-2441-441D-87CA-20CC7FBEF11F</value>
   </data>
   <data name="DropDown_PullRequestTargetBranch" xml:space="preserve">
-    <value />
+    <value>4F5B2AC6-D1F6-46B7-950D-D63619D9CA83</value>
   </data>
-  <data name="TextBox_PullRequestDescription" xml:space="preserve">
-    <value />
+  <data name="TextBox_PullRequestCreationDescription" xml:space="preserve">
+    <value>8868F4FE-D2F6-4C6D-AC43-355EC72AC316</value>
   </data>
-  <data name="TextBox_PullRequestTitle" xml:space="preserve">
-    <value />
+  <data name="TextBox_PullRequestCreationTitle" xml:space="preserve">
+    <value>64728EB8-5D48-403D-A34E-A4D3AE450840</value>
+  </data>
+  <data name="DropDown_PullRequestListFilterAssignees" xml:space="preserve">
+    <value>70F8CBA0-EE79-4F75-81AA-39A5E4322FE5</value>
+  </data>
+  <data name="Label_PullRequestCreationSourceBranch" xml:space="preserve">
+    <value>F5655ABA-9EEF-49EC-B74C-8DDB8E130AD5</value>
   </data>
 </root>

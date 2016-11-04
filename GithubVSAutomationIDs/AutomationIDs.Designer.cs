@@ -61,29 +61,47 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 8FE5A4A9-2E3C-48D4-8351-8D4D959BD6F4.
         /// </summary>
-        public static string Button_PullRequestCancel {
+        public static string Button_PullRequestCreationCancel {
             get {
-                return ResourceManager.GetString("Button_PullRequestCancel", resourceCulture);
+                return ResourceManager.GetString("Button_PullRequestCreationCancel", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 24E9EB8A-2441-441D-87CA-20CC7FBEF11F.
         /// </summary>
-        public static string Button_PullRequestCreate {
+        public static string Button_PullRequestCreationCreate {
             get {
-                return ResourceManager.GetString("Button_PullRequestCreate", resourceCulture);
+                return ResourceManager.GetString("Button_PullRequestCreationCreate", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 70F8CBA0-EE79-4F75-81AA-39A5E4322FE5.
+        /// </summary>
+        public static string DropDown_PullRequestListFilterAssignees {
+            get {
+                return ResourceManager.GetString("DropDown_PullRequestListFilterAssignees", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 4F5B2AC6-D1F6-46B7-950D-D63619D9CA83.
         /// </summary>
         public static string DropDown_PullRequestTargetBranch {
             get {
                 return ResourceManager.GetString("DropDown_PullRequestTargetBranch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to F5655ABA-9EEF-49EC-B74C-8DDB8E130AD5.
+        /// </summary>
+        public static string Label_PullRequestCreationSourceBranch {
+            get {
+                return ResourceManager.GetString("Label_PullRequestCreationSourceBranch", resourceCulture);
             }
         }
         
@@ -153,9 +171,9 @@ namespace GithubVSAutomationIDs {
         /// <summary>
         ///   Looks up a localized string similar to 70901982-B7DF-467C-91F2-672A92A8C3E1.
         /// </summary>
-        public static string Pane_PullRequestDetail {
+        public static string Pane_PullRequestCreationDetail {
             get {
-                return ResourceManager.GetString("Pane_PullRequestDetail", resourceCulture);
+                return ResourceManager.GetString("Pane_PullRequestCreationDetail", resourceCulture);
             }
         }
         
@@ -178,20 +196,20 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 8868F4FE-D2F6-4C6D-AC43-355EC72AC316.
         /// </summary>
-        public static string TextBox_PullRequestDescription {
+        public static string TextBox_PullRequestCreationDescription {
             get {
-                return ResourceManager.GetString("TextBox_PullRequestDescription", resourceCulture);
+                return ResourceManager.GetString("TextBox_PullRequestCreationDescription", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 64728EB8-5D48-403D-A34E-A4D3AE450840.
         /// </summary>
-        public static string TextBox_PullRequestTitle {
+        public static string TextBox_PullRequestCreationTitle {
             get {
-                return ResourceManager.GetString("TextBox_PullRequestTitle", resourceCulture);
+                return ResourceManager.GetString("TextBox_PullRequestCreationTitle", resourceCulture);
             }
         }
     }
