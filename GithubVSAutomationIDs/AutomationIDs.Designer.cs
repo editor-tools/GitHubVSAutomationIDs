@@ -61,7 +61,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 8FE5A4A9-2E3C-48D4-8351-8D4D959BD6F4.
+        ///   Looks up a localized string similar to Button_PullRequestCreationCancel.
         /// </summary>
         public static string Button_PullRequestCreationCancel {
             get {
@@ -70,7 +70,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 24E9EB8A-2441-441D-87CA-20CC7FBEF11F.
+        ///   Looks up a localized string similar to Button_PullRequestCreationCreate.
         /// </summary>
         public static string Button_PullRequestCreationCreate {
             get {
@@ -79,7 +79,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 70F8CBA0-EE79-4F75-81AA-39A5E4322FE5.
+        ///   Looks up a localized string similar to DropDown_PullRequestListFilterAssignees.
         /// </summary>
         public static string DropDown_PullRequestListFilterAssignees {
             get {
@@ -88,7 +88,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 4F5B2AC6-D1F6-46B7-950D-D63619D9CA83.
+        ///   Looks up a localized string similar to DropDown_PullRequestTargetBranch.
         /// </summary>
         public static string DropDown_PullRequestTargetBranch {
             get {
@@ -97,7 +97,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to F5655ABA-9EEF-49EC-B74C-8DDB8E130AD5.
+        ///   Looks up a localized string similar to Label_PullRequestCreationSourceBranch.
         /// </summary>
         public static string Label_PullRequestCreationSourceBranch {
             get {
@@ -106,7 +106,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 38E80A12-5E56-4E1B-9A0C-C71E503DAA76.
+        ///   Looks up a localized string similar to Modal_Gist.
         /// </summary>
         public static string Modal_Gist {
             get {
@@ -115,7 +115,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A6E2404F-5526-42E1-AF59-58C1C78B9C1A.
+        ///   Looks up a localized string similar to Modal_LogIn.
         /// </summary>
         public static string Modal_LogIn {
             get {
@@ -124,7 +124,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 9ABC39DE-13EA-4705-B461-35B9AE6F8E82.
+        ///   Looks up a localized string similar to Modal_RepositoryClone.
         /// </summary>
         public static string Modal_RepositoryClone {
             get {
@@ -133,7 +133,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 9768F66E-4C25-42E5-B4B8-15B7CF5BA254.
+        ///   Looks up a localized string similar to Modal_RepositoryCreate.
         /// </summary>
         public static string Modal_RepositoryCreate {
             get {
@@ -142,7 +142,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 1B63773B-3864-4CBD-8DA2-85D0B2CBB127.
+        ///   Looks up a localized string similar to Modal_TwoFactorAuthentication.
         /// </summary>
         public static string Modal_TwoFactorAuthentication {
             get {
@@ -151,7 +151,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 1832073F-538B-414A-8849-82192E4B5BC4.
+        ///   Looks up a localized string similar to Pane_GitHub.
         /// </summary>
         public static string Pane_GitHub {
             get {
@@ -160,7 +160,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to D90E8907-A0B7-44B5-9D8F-FCDC2D891B7E.
+        ///   Looks up a localized string similar to Pane_PullRequestCreation.
         /// </summary>
         public static string Pane_PullRequestCreation {
             get {
@@ -169,7 +169,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 70901982-B7DF-467C-91F2-672A92A8C3E1.
+        ///   Looks up a localized string similar to Pane_PullRequestCreationDetail.
         /// </summary>
         public static string Pane_PullRequestCreationDetail {
             get {
@@ -178,7 +178,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to D031AB2C-E81A-4926-97ED-2F19DD3BABB7.
+        ///   Looks up a localized string similar to Pane_PullRequestList.
         /// </summary>
         public static string Pane_PullRequestList {
             get {
@@ -187,7 +187,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to D1B99F04-3017-4A40-9669-79E1215C9B6D.
+        ///   Looks up a localized string similar to Panel_InfoPanel.
         /// </summary>
         public static string Panel_InfoPanel {
             get {
@@ -196,7 +196,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 8868F4FE-D2F6-4C6D-AC43-355EC72AC316.
+        ///   Looks up a localized string similar to TextBox_PullRequestCreationDescription.
         /// </summary>
         public static string TextBox_PullRequestCreationDescription {
             get {
@@ -205,7 +205,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 64728EB8-5D48-403D-A34E-A4D3AE450840.
+        ///   Looks up a localized string similar to TextBox_PullRequestCreationTitle.
         /// </summary>
         public static string TextBox_PullRequestCreationTitle {
             get {

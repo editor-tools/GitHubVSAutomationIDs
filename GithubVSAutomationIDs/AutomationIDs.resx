@@ -118,54 +118,54 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Modal_Gist" xml:space="preserve">
-    <value>38E80A12-5E56-4E1B-9A0C-C71E503DAA76</value>
+    <value>Modal_Gist</value>
   </data>
   <data name="Modal_LogIn" xml:space="preserve">
-    <value>A6E2404F-5526-42E1-AF59-58C1C78B9C1A</value>
+    <value>Modal_LogIn</value>
   </data>
   <data name="Modal_RepositoryClone" xml:space="preserve">
-    <value>9ABC39DE-13EA-4705-B461-35B9AE6F8E82</value>
+    <value>Modal_RepositoryClone</value>
   </data>
   <data name="Modal_RepositoryCreate" xml:space="preserve">
-    <value>9768F66E-4C25-42E5-B4B8-15B7CF5BA254</value>
+    <value>Modal_RepositoryCreate</value>
   </data>
   <data name="Modal_TwoFactorAuthentication" xml:space="preserve">
-    <value>1B63773B-3864-4CBD-8DA2-85D0B2CBB127</value>
+    <value>Modal_TwoFactorAuthentication</value>
   </data>
   <data name="Panel_InfoPanel" xml:space="preserve">
-    <value>D1B99F04-3017-4A40-9669-79E1215C9B6D</value>
+    <value>Panel_InfoPanel</value>
   </data>
   <data name="Pane_GitHub" xml:space="preserve">
-    <value>1832073F-538B-414A-8849-82192E4B5BC4</value>
+    <value>Pane_GitHub</value>
   </data>
   <data name="Pane_PullRequestCreation" xml:space="preserve">
-    <value>D90E8907-A0B7-44B5-9D8F-FCDC2D891B7E</value>
+    <value>Pane_PullRequestCreation</value>
   </data>
   <data name="Pane_PullRequestCreationDetail" xml:space="preserve">
-    <value>70901982-B7DF-467C-91F2-672A92A8C3E1</value>
+    <value>Pane_PullRequestCreationDetail</value>
   </data>
   <data name="Pane_PullRequestList" xml:space="preserve">
-    <value>D031AB2C-E81A-4926-97ED-2F19DD3BABB7</value>
+    <value>Pane_PullRequestList</value>
   </data>
   <data name="Button_PullRequestCreationCancel" xml:space="preserve">
-    <value>8FE5A4A9-2E3C-48D4-8351-8D4D959BD6F4</value>
+    <value>Button_PullRequestCreationCancel</value>
   </data>
   <data name="Button_PullRequestCreationCreate" xml:space="preserve">
-    <value>24E9EB8A-2441-441D-87CA-20CC7FBEF11F</value>
+    <value>Button_PullRequestCreationCreate</value>
   </data>
   <data name="DropDown_PullRequestTargetBranch" xml:space="preserve">
-    <value>4F5B2AC6-D1F6-46B7-950D-D63619D9CA83</value>
+    <value>DropDown_PullRequestTargetBranch</value>
   </data>
   <data name="TextBox_PullRequestCreationDescription" xml:space="preserve">
-    <value>8868F4FE-D2F6-4C6D-AC43-355EC72AC316</value>
+    <value>TextBox_PullRequestCreationDescription</value>
   </data>
   <data name="TextBox_PullRequestCreationTitle" xml:space="preserve">
-    <value>64728EB8-5D48-403D-A34E-A4D3AE450840</value>
+    <value>TextBox_PullRequestCreationTitle</value>
   </data>
   <data name="DropDown_PullRequestListFilterAssignees" xml:space="preserve">
-    <value>70F8CBA0-EE79-4F75-81AA-39A5E4322FE5</value>
+    <value>DropDown_PullRequestListFilterAssignees</value>
   </data>
   <data name="Label_PullRequestCreationSourceBranch" xml:space="preserve">
-    <value>F5655ABA-9EEF-49EC-B74C-8DDB8E130AD5</value>
+    <value>Label_PullRequestCreationSourceBranch</value>
   </data>
 </root>
