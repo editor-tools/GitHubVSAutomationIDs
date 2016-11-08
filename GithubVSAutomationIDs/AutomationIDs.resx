@@ -117,55 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Modal_Gist" xml:space="preserve">
-    <value>Modal_Gist</value>
+  <data name="GistModal" xml:space="preserve">
+    <value>GistModal</value>
   </data>
-  <data name="Modal_LogIn" xml:space="preserve">
-    <value>Modal_LogIn</value>
+  <data name="SignInModal" xml:space="preserve">
+    <value>SignInModal</value>
   </data>
-  <data name="Modal_RepositoryClone" xml:space="preserve">
-    <value>Modal_RepositoryClone</value>
+  <data name="RepositoryCloneModal" xml:space="preserve">
+    <value>RepositoryCloneModal</value>
   </data>
-  <data name="Modal_RepositoryCreate" xml:space="preserve">
-    <value>Modal_RepositoryCreate</value>
+  <data name="RepositoryCreateModal" xml:space="preserve">
+    <value>RepositoryCreateModal</value>
   </data>
-  <data name="Modal_TwoFactorAuthentication" xml:space="preserve">
-    <value>Modal_TwoFactorAuthentication</value>
+  <data name="TwoFactorAuthenticationModal" xml:space="preserve">
+    <value>TwoFactorAuthenticationModal</value>
   </data>
-  <data name="Panel_InfoPanel" xml:space="preserve">
-    <value>Panel_InfoPanel</value>
+  <data name="GitHubInfoPanel" xml:space="preserve">
+    <value>GitHubInfoPanel</value>
   </data>
-  <data name="Pane_GitHub" xml:space="preserve">
-    <value>Pane_GitHub</value>
+  <data name="GitHubPane" xml:space="preserve">
+    <value>GitHubPane</value>
   </data>
-  <data name="Pane_PullRequestCreation" xml:space="preserve">
-    <value>Pane_PullRequestCreation</value>
+  <data name="PullRequestCreationPane" xml:space="preserve">
+    <value>PullRequestCreationPane</value>
   </data>
-  <data name="Pane_PullRequestCreationDetail" xml:space="preserve">
-    <value>Pane_PullRequestCreationDetail</value>
+  <data name="PullRequestCreationDetailPane" xml:space="preserve">
+    <value>PullRequestCreationDetailPane</value>
   </data>
-  <data name="Pane_PullRequestList" xml:space="preserve">
-    <value>Pane_PullRequestList</value>
+  <data name="PullRequestListPane" xml:space="preserve">
+    <value>PullRequestListPane</value>
   </data>
-  <data name="Button_PullRequestCreationCancel" xml:space="preserve">
-    <value>Button_PullRequestCreationCancel</value>
+  <data name="PullRequestCreationCancelButton" xml:space="preserve">
+    <value>PullRequestCreationCancelButton</value>
   </data>
-  <data name="Button_PullRequestCreationCreate" xml:space="preserve">
-    <value>Button_PullRequestCreationCreate</value>
+  <data name="PullRequestCreationCreateButton" xml:space="preserve">
+    <value>PullRequestCreationCreateButton</value>
   </data>
-  <data name="DropDown_PullRequestTargetBranch" xml:space="preserve">
-    <value>DropDown_PullRequestTargetBranch</value>
+  <data name="PullRequestTargetBranchDropDown" xml:space="preserve">
+    <value>PullRequestTargetBranchDropDown</value>
   </data>
-  <data name="TextBox_PullRequestCreationDescription" xml:space="preserve">
-    <value>TextBox_PullRequestCreationDescription</value>
+  <data name="PullRequestCreationDescriptionTextBox" xml:space="preserve">
+    <value>PullRequestCreationDescriptionTextBox</value>
   </data>
-  <data name="TextBox_PullRequestCreationTitle" xml:space="preserve">
-    <value>TextBox_PullRequestCreationTitle</value>
+  <data name="PullRequestCreationTitleTextBox" xml:space="preserve">
+    <value>PullRequestCreationTitleTextBox</value>
   </data>
-  <data name="DropDown_PullRequestListFilterAssignees" xml:space="preserve">
-    <value>DropDown_PullRequestListFilterAssignees</value>
+  <data name="PullRequestListFilterAssigneesDropDown" xml:space="preserve">
+    <value>PullRequestListFilterAssigneesDropDown</value>
   </data>
-  <data name="Label_PullRequestCreationSourceBranch" xml:space="preserve">
-    <value>Label_PullRequestCreationSourceBranch</value>
+  <data name="PullRequestCreationSourceBranchLabel" xml:space="preserve">
+    <value>PullRequestCreationSourceBranchLabel</value>
   </data>
 </root>

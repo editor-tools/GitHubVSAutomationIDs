@@ -61,155 +61,155 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Button_PullRequestCreationCancel.
+        ///   Looks up a localized string similar to GistModal.
         /// </summary>
-        public static string Button_PullRequestCreationCancel {
+        public static string GistModal {
             get {
-                return ResourceManager.GetString("Button_PullRequestCreationCancel", resourceCulture);
+                return ResourceManager.GetString("GistModal", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Button_PullRequestCreationCreate.
+        ///   Looks up a localized string similar to GitHubInfoPanel.
         /// </summary>
-        public static string Button_PullRequestCreationCreate {
+        public static string GitHubInfoPanel {
             get {
-                return ResourceManager.GetString("Button_PullRequestCreationCreate", resourceCulture);
+                return ResourceManager.GetString("GitHubInfoPanel", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DropDown_PullRequestListFilterAssignees.
+        ///   Looks up a localized string similar to GitHubPane.
         /// </summary>
-        public static string DropDown_PullRequestListFilterAssignees {
+        public static string GitHubPane {
             get {
-                return ResourceManager.GetString("DropDown_PullRequestListFilterAssignees", resourceCulture);
+                return ResourceManager.GetString("GitHubPane", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DropDown_PullRequestTargetBranch.
+        ///   Looks up a localized string similar to PullRequestCreationCancelButton.
         /// </summary>
-        public static string DropDown_PullRequestTargetBranch {
+        public static string PullRequestCreationCancelButton {
             get {
-                return ResourceManager.GetString("DropDown_PullRequestTargetBranch", resourceCulture);
+                return ResourceManager.GetString("PullRequestCreationCancelButton", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Label_PullRequestCreationSourceBranch.
+        ///   Looks up a localized string similar to PullRequestCreationCreateButton.
         /// </summary>
-        public static string Label_PullRequestCreationSourceBranch {
+        public static string PullRequestCreationCreateButton {
             get {
-                return ResourceManager.GetString("Label_PullRequestCreationSourceBranch", resourceCulture);
+                return ResourceManager.GetString("PullRequestCreationCreateButton", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Modal_Gist.
+        ///   Looks up a localized string similar to PullRequestCreationDescriptionTextBox.
         /// </summary>
-        public static string Modal_Gist {
+        public static string PullRequestCreationDescriptionTextBox {
             get {
-                return ResourceManager.GetString("Modal_Gist", resourceCulture);
+                return ResourceManager.GetString("PullRequestCreationDescriptionTextBox", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Modal_LogIn.
+        ///   Looks up a localized string similar to PullRequestCreationDetailPane.
         /// </summary>
-        public static string Modal_LogIn {
+        public static string PullRequestCreationDetailPane {
             get {
-                return ResourceManager.GetString("Modal_LogIn", resourceCulture);
+                return ResourceManager.GetString("PullRequestCreationDetailPane", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Modal_RepositoryClone.
+        ///   Looks up a localized string similar to PullRequestCreationPane.
         /// </summary>
-        public static string Modal_RepositoryClone {
+        public static string PullRequestCreationPane {
             get {
-                return ResourceManager.GetString("Modal_RepositoryClone", resourceCulture);
+                return ResourceManager.GetString("PullRequestCreationPane", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Modal_RepositoryCreate.
+        ///   Looks up a localized string similar to PullRequestCreationSourceBranchLabel.
         /// </summary>
-        public static string Modal_RepositoryCreate {
+        public static string PullRequestCreationSourceBranchLabel {
             get {
-                return ResourceManager.GetString("Modal_RepositoryCreate", resourceCulture);
+                return ResourceManager.GetString("PullRequestCreationSourceBranchLabel", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Modal_TwoFactorAuthentication.
+        ///   Looks up a localized string similar to PullRequestCreationTitleTextBox.
         /// </summary>
-        public static string Modal_TwoFactorAuthentication {
+        public static string PullRequestCreationTitleTextBox {
             get {
-                return ResourceManager.GetString("Modal_TwoFactorAuthentication", resourceCulture);
+                return ResourceManager.GetString("PullRequestCreationTitleTextBox", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pane_GitHub.
+        ///   Looks up a localized string similar to PullRequestListFilterAssigneesDropDown.
         /// </summary>
-        public static string Pane_GitHub {
+        public static string PullRequestListFilterAssigneesDropDown {
             get {
-                return ResourceManager.GetString("Pane_GitHub", resourceCulture);
+                return ResourceManager.GetString("PullRequestListFilterAssigneesDropDown", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pane_PullRequestCreation.
+        ///   Looks up a localized string similar to PullRequestListPane.
         /// </summary>
-        public static string Pane_PullRequestCreation {
+        public static string PullRequestListPane {
             get {
-                return ResourceManager.GetString("Pane_PullRequestCreation", resourceCulture);
+                return ResourceManager.GetString("PullRequestListPane", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pane_PullRequestCreationDetail.
+        ///   Looks up a localized string similar to PullRequestTargetBranchDropDown.
         /// </summary>
-        public static string Pane_PullRequestCreationDetail {
+        public static string PullRequestTargetBranchDropDown {
             get {
-                return ResourceManager.GetString("Pane_PullRequestCreationDetail", resourceCulture);
+                return ResourceManager.GetString("PullRequestTargetBranchDropDown", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pane_PullRequestList.
+        ///   Looks up a localized string similar to RepositoryCloneModal.
         /// </summary>
-        public static string Pane_PullRequestList {
+        public static string RepositoryCloneModal {
             get {
-                return ResourceManager.GetString("Pane_PullRequestList", resourceCulture);
+                return ResourceManager.GetString("RepositoryCloneModal", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Panel_InfoPanel.
+        ///   Looks up a localized string similar to RepositoryCreateModal.
         /// </summary>
-        public static string Panel_InfoPanel {
+        public static string RepositoryCreateModal {
             get {
-                return ResourceManager.GetString("Panel_InfoPanel", resourceCulture);
+                return ResourceManager.GetString("RepositoryCreateModal", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to TextBox_PullRequestCreationDescription.
+        ///   Looks up a localized string similar to SignInModal.
         /// </summary>
-        public static string TextBox_PullRequestCreationDescription {
+        public static string SignInModal {
             get {
-                return ResourceManager.GetString("TextBox_PullRequestCreationDescription", resourceCulture);
+                return ResourceManager.GetString("SignInModal", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to TextBox_PullRequestCreationTitle.
+        ///   Looks up a localized string similar to TwoFactorAuthenticationModal.
         /// </summary>
-        public static string TextBox_PullRequestCreationTitle {
+        public static string TwoFactorAuthenticationModal {
             get {
-                return ResourceManager.GetString("TextBox_PullRequestCreationTitle", resourceCulture);
+                return ResourceManager.GetString("TwoFactorAuthenticationModal", resourceCulture);
             }
         }
     }
