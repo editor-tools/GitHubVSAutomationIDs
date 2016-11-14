@@ -11,7 +11,11 @@ doesn't serve a purpose for this project.
 
 The descriptive name should contain the:
 
+- Name property of the control
+- HelpText property of control (if Name is not descriptive enough)
+
+If either of those properties are not accessible (empty), or not clear enough then use:
 - Feature set (Pull Requests, Gist, etc)
 - Function (Creates, Deletes, etc)
 
-The control type should refer to the type of control being tested. (Pane, Button, etc)
+The control type should refer to the type of control being tested. (Pane, Button, Custom etc)
