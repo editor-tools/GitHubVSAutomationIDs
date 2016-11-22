@@ -135,8 +135,8 @@
   <data name="GitHubInfoPanel" xml:space="preserve">
     <value>GitHubInfoPanel</value>
   </data>
-  <data name="GitHubPane" xml:space="preserve">
-    <value>GitHubPane</value>
+  <data name="GitHubTabItem" xml:space="preserve">
+    <value>GitHubTabItem</value>
   </data>
   <data name="PullRequestCreationPane" xml:space="preserve">
     <value>PullRequestCreationPane</value>
@@ -167,5 +167,26 @@
   </data>
   <data name="PullRequestCreationSourceBranchLabel" xml:space="preserve">
     <value>PullRequestCreationSourceBranchLabel</value>
+  </data>
+  <data name="GitHubInfoPanelCancelButton" xml:space="preserve">
+    <value>GitHubInfoPanelCancelButton</value>
+  </data>
+  <data name="GitHubInfoPanelMessageDocument" xml:space="preserve">
+    <value>GitHubInfoPanelMessageDocument</value>
+  </data>
+  <data name="GitHubToolBar" xml:space="preserve">
+    <value>GitHubToolBar</value>
+  </data>
+  <data name="GitHubToolBarBackImage" xml:space="preserve">
+    <value>GitHubToolBarBackImage</value>
+  </data>
+  <data name="GitHubToolBarForwardImage" xml:space="preserve">
+    <value>GitHubToolBarForwardImage</value>
+  </data>
+  <data name="GitHubToolBarPullRequestImage" xml:space="preserve">
+    <value>GitHubToolBarPullRequestImage</value>
+  </data>
+  <data name="GitHubToolBarRefreshImage" xml:space="preserve">
+    <value>GitHubToolBarRefreshImage</value>
   </data>
 </root>
