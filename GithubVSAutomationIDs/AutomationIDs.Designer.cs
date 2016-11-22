@@ -88,29 +88,29 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CreatedPullRequestNumberHyperLink.
+        ///   Looks up a localized string similar to CreatedPullRequestNumberHyperlink.
         /// </summary>
-        public static string CreatedPullRequestNumberHyperLink {
+        public static string CreatedPullRequestNumberHyperlink {
             get {
-                return ResourceManager.GetString("CreatedPullRequestNumberHyperLink", resourceCulture);
+                return ResourceManager.GetString("CreatedPullRequestNumberHyperlink", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CreatedPullRequestTitleHyperLink.
+        ///   Looks up a localized string similar to CreatedPullRequestTitleHyperlink.
         /// </summary>
-        public static string CreatedPullRequestTitleHyperLink {
+        public static string CreatedPullRequestTitleHyperlink {
             get {
-                return ResourceManager.GetString("CreatedPullRequestTitleHyperLink", resourceCulture);
+                return ResourceManager.GetString("CreatedPullRequestTitleHyperlink", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CreateNewHyperLink.
+        ///   Looks up a localized string similar to CreateNewHyperlink.
         /// </summary>
-        public static string CreateNewHyperLink {
+        public static string CreateNewHyperlink {
             get {
-                return ResourceManager.GetString("CreateNewHyperLink", resourceCulture);
+                return ResourceManager.GetString("CreateNewHyperlink", resourceCulture);
             }
         }
         
@@ -250,11 +250,11 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to PullRequestSourceBranchHyperLink.
+        ///   Looks up a localized string similar to PullRequestSourceBranchHyperlink.
         /// </summary>
-        public static string PullRequestSourceBranchHyperLink {
+        public static string PullRequestSourceBranchHyperlink {
             get {
-                return ResourceManager.GetString("PullRequestSourceBranchHyperLink", resourceCulture);
+                return ResourceManager.GetString("PullRequestSourceBranchHyperlink", resourceCulture);
             }
         }
         
