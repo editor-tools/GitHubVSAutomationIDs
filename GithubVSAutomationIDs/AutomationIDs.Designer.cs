@@ -241,6 +241,15 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to PullRequestRepositoryNameTextBlock.
+        /// </summary>
+        public static string PullRequestRepositoryNameTextBlock {
+            get {
+                return ResourceManager.GetString("PullRequestRepositoryNameTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to PullRequestSourceBranchHyperLink.
         /// </summary>
         public static string PullRequestSourceBranchHyperLink {

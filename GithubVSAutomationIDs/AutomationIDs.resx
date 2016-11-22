@@ -198,4 +198,7 @@
   <data name="SelectABranchComboBox" xml:space="preserve">
     <value>SelectABranchComboBox</value>
   </data>
+  <data name="PullRequestRepositoryNameTextBlock" xml:space="preserve">
+    <value>PullRequestRepositoryNameTextBlock</value>
+  </data>
 </root>
