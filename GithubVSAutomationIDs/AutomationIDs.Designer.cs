@@ -61,6 +61,24 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CloneHyperlink.
+        /// </summary>
+        public static string CloneHyperlink {
+            get {
+                return ResourceManager.GetString("CloneHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ConnectToGitHubMenuItem.
+        /// </summary>
+        public static string ConnectToGitHubMenuItem {
+            get {
+                return ResourceManager.GetString("ConnectToGitHubMenuItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CreatedPullRequestAuthorImage.
         /// </summary>
         public static string CreatedPullRequestAuthorImage {
@@ -106,6 +124,15 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CreateHyperlink.
+        /// </summary>
+        public static string CreateHyperlink {
+            get {
+                return ResourceManager.GetString("CreateHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CreateNewHyperlink.
         /// </summary>
         public static string CreateNewHyperlink {
@@ -120,6 +147,24 @@ namespace GithubVSAutomationIDs {
         public static string GistModal {
             get {
                 return ResourceManager.GetString("GistModal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubConnectContentCustom.
+        /// </summary>
+        public static string GitHubConnectContentCustom {
+            get {
+                return ResourceManager.GetString("GitHubConnectContentCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubHomeContentCustom.
+        /// </summary>
+        public static string GitHubHomeContentCustom {
+            get {
+                return ResourceManager.GetString("GitHubHomeContentCustom", resourceCulture);
             }
         }
         
@@ -295,11 +340,101 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to SignInHyperlink.
+        /// </summary>
+        public static string SignInHyperlink {
+            get {
+                return ResourceManager.GetString("SignInHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to SignInModal.
         /// </summary>
         public static string SignInModal {
             get {
                 return ResourceManager.GetString("SignInModal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignOutHyperlink.
+        /// </summary>
+        public static string SignOutHyperlink {
+            get {
+                return ResourceManager.GetString("SignOutHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerConnectGitHubSectionButton.
+        /// </summary>
+        public static string TeamExplorerConnectGitHubSectionButton {
+            get {
+                return ResourceManager.GetString("TeamExplorerConnectGitHubSectionButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerConnectGitHubSectionTextBlock.
+        /// </summary>
+        public static string TeamExplorerConnectGitHubSectionTextBlock {
+            get {
+                return ResourceManager.GetString("TeamExplorerConnectGitHubSectionTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerHomeGitHubSectionButton.
+        /// </summary>
+        public static string TeamExplorerHomeGitHubSectionButton {
+            get {
+                return ResourceManager.GetString("TeamExplorerHomeGitHubSectionButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerHomeGitHubSectionTextBlock.
+        /// </summary>
+        public static string TeamExplorerHomeGitHubSectionTextBlock {
+            get {
+                return ResourceManager.GetString("TeamExplorerHomeGitHubSectionTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerRepositoryListBoxItem.
+        /// </summary>
+        public static string TeamExplorerRepositoryListBoxItem {
+            get {
+                return ResourceManager.GetString("TeamExplorerRepositoryListBoxItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerRepositoryListView.
+        /// </summary>
+        public static string TeamExplorerRepositoryListView {
+            get {
+                return ResourceManager.GetString("TeamExplorerRepositoryListView", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerRepositoryNameTextBlock.
+        /// </summary>
+        public static string TeamExplorerRepositoryNameTextBlock {
+            get {
+                return ResourceManager.GetString("TeamExplorerRepositoryNameTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerRepositoryURLTextBlock.
+        /// </summary>
+        public static string TeamExplorerRepositoryURLTextBlock {
+            get {
+                return ResourceManager.GetString("TeamExplorerRepositoryURLTextBlock", resourceCulture);
             }
         }
         
