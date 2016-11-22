@@ -61,6 +61,60 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CreatedPullRequestAuthorImage.
+        /// </summary>
+        public static string CreatedPullRequestAuthorImage {
+            get {
+                return ResourceManager.GetString("CreatedPullRequestAuthorImage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreatedPullRequestDetailsTextBlock.
+        /// </summary>
+        public static string CreatedPullRequestDetailsTextBlock {
+            get {
+                return ResourceManager.GetString("CreatedPullRequestDetailsTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreatedPullRequestListItem.
+        /// </summary>
+        public static string CreatedPullRequestListItem {
+            get {
+                return ResourceManager.GetString("CreatedPullRequestListItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreatedPullRequestNumberHyperlink.
+        /// </summary>
+        public static string CreatedPullRequestNumberHyperlink {
+            get {
+                return ResourceManager.GetString("CreatedPullRequestNumberHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreatedPullRequestTitleHyperlink.
+        /// </summary>
+        public static string CreatedPullRequestTitleHyperlink {
+            get {
+                return ResourceManager.GetString("CreatedPullRequestTitleHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreateNewHyperlink.
+        /// </summary>
+        public static string CreateNewHyperlink {
+            get {
+                return ResourceManager.GetString("CreateNewHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to GistModal.
         /// </summary>
         public static string GistModal {
@@ -124,29 +178,38 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to PullRequestCreationPane.
-        /// </summary>
-        public static string PullRequestCreationPane {
-            get {
-                return ResourceManager.GetString("PullRequestCreationPane", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to PullRequestCreationSourceBranchLabel.
-        /// </summary>
-        public static string PullRequestCreationSourceBranchLabel {
-            get {
-                return ResourceManager.GetString("PullRequestCreationSourceBranchLabel", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to PullRequestCreationTitleTextBox.
         /// </summary>
         public static string PullRequestCreationTitleTextBox {
             get {
                 return ResourceManager.GetString("PullRequestCreationTitleTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PullRequestCreationViewCustom.
+        /// </summary>
+        public static string PullRequestCreationViewCustom {
+            get {
+                return ResourceManager.GetString("PullRequestCreationViewCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PullRequestListAssigneeFilterComboBox.
+        /// </summary>
+        public static string PullRequestListAssigneeFilterComboBox {
+            get {
+                return ResourceManager.GetString("PullRequestListAssigneeFilterComboBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PullRequestListAuthorFilterComboBox.
+        /// </summary>
+        public static string PullRequestListAuthorFilterComboBox {
+            get {
+                return ResourceManager.GetString("PullRequestListAuthorFilterComboBox", resourceCulture);
             }
         }
         
@@ -160,20 +223,47 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to PullRequestListPane.
+        ///   Looks up a localized string similar to PullRequestListStatusFilterComboBox.
         /// </summary>
-        public static string PullRequestListPane {
+        public static string PullRequestListStatusFilterComboBox {
             get {
-                return ResourceManager.GetString("PullRequestListPane", resourceCulture);
+                return ResourceManager.GetString("PullRequestListStatusFilterComboBox", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to PullRequestTargetBranchDropDown.
+        ///   Looks up a localized string similar to PullRequestListViewCustom.
         /// </summary>
-        public static string PullRequestTargetBranchDropDown {
+        public static string PullRequestListViewCustom {
             get {
-                return ResourceManager.GetString("PullRequestTargetBranchDropDown", resourceCulture);
+                return ResourceManager.GetString("PullRequestListViewCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PullRequestRepositoryNameTextBlock.
+        /// </summary>
+        public static string PullRequestRepositoryNameTextBlock {
+            get {
+                return ResourceManager.GetString("PullRequestRepositoryNameTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PullRequestSourceBranchHyperlink.
+        /// </summary>
+        public static string PullRequestSourceBranchHyperlink {
+            get {
+                return ResourceManager.GetString("PullRequestSourceBranchHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PullRequestTargetBranchComboBox.
+        /// </summary>
+        public static string PullRequestTargetBranchComboBox {
+            get {
+                return ResourceManager.GetString("PullRequestTargetBranchComboBox", resourceCulture);
             }
         }
         
@@ -192,6 +282,15 @@ namespace GithubVSAutomationIDs {
         public static string RepositoryCreateModal {
             get {
                 return ResourceManager.GetString("RepositoryCreateModal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SelectABranchComboBox.
+        /// </summary>
+        public static string SelectABranchComboBox {
+            get {
+                return ResourceManager.GetString("SelectABranchComboBox", resourceCulture);
             }
         }
         
