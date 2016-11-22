@@ -138,14 +138,14 @@
   <data name="GitHubPane" xml:space="preserve">
     <value>GitHubPane</value>
   </data>
-  <data name="PullRequestCreationPane" xml:space="preserve">
-    <value>PullRequestCreationPane</value>
+  <data name="PullRequestCreationViewCustom" xml:space="preserve">
+    <value>PullRequestCreationViewCustom</value>
   </data>
   <data name="PullRequestCreationDetailPane" xml:space="preserve">
     <value>PullRequestCreationDetailPane</value>
   </data>
-  <data name="PullRequestListPane" xml:space="preserve">
-    <value>PullRequestListPane</value>
+  <data name="PullRequestListViewCustom" xml:space="preserve">
+    <value>PullRequestListViewCustom</value>
   </data>
   <data name="PullRequestCreationCancelButton" xml:space="preserve">
     <value>PullRequestCreationCancelButton</value>
@@ -153,8 +153,8 @@
   <data name="PullRequestCreationCreateButton" xml:space="preserve">
     <value>PullRequestCreationCreateButton</value>
   </data>
-  <data name="PullRequestTargetBranchDropDown" xml:space="preserve">
-    <value>PullRequestTargetBranchDropDown</value>
+  <data name="PullRequestTargetBranchComboBox" xml:space="preserve">
+    <value>PullRequestTargetBranchComboBox</value>
   </data>
   <data name="PullRequestCreationDescriptionTextBox" xml:space="preserve">
     <value>PullRequestCreationDescriptionTextBox</value>
@@ -165,7 +165,37 @@
   <data name="PullRequestListFilterAssigneesDropDown" xml:space="preserve">
     <value>PullRequestListFilterAssigneesDropDown</value>
   </data>
-  <data name="PullRequestCreationSourceBranchLabel" xml:space="preserve">
-    <value>PullRequestCreationSourceBranchLabel</value>
+  <data name="PullRequestSourceBranchHyperLink" xml:space="preserve">
+    <value>PullRequestSourceBranchHyperLink</value>
+  </data>
+  <data name="CreatedPullRequestAuthorImage" xml:space="preserve">
+    <value>CreatedPullRequestAuthorImage</value>
+  </data>
+  <data name="CreatedPullRequestDetailsTextBlock" xml:space="preserve">
+    <value>CreatedPullRequestDetailsTextBlock</value>
+  </data>
+  <data name="CreatedPullRequestListItem" xml:space="preserve">
+    <value>CreatedPullRequestListItem</value>
+  </data>
+  <data name="CreatedPullRequestNumberHyperLink" xml:space="preserve">
+    <value>CreatedPullRequestNumberHyperLink</value>
+  </data>
+  <data name="CreatedPullRequestTitleHyperLink" xml:space="preserve">
+    <value>CreatedPullRequestTitleHyperLink</value>
+  </data>
+  <data name="CreateNewHyperLink" xml:space="preserve">
+    <value>CreateNewHyperLink</value>
+  </data>
+  <data name="PullRequestListAssigneeFilterComboBox" xml:space="preserve">
+    <value>PullRequestListAssigneeFilterComboBox</value>
+  </data>
+  <data name="PullRequestListAuthorFilterComboBox" xml:space="preserve">
+    <value>PullRequestListAuthorFilterComboBox</value>
+  </data>
+  <data name="PullRequestListStatusFilterComboBox" xml:space="preserve">
+    <value>PullRequestListStatusFilterComboBox</value>
+  </data>
+  <data name="SelectABranchComboBox" xml:space="preserve">
+    <value>SelectABranchComboBox</value>
   </data>
 </root>
