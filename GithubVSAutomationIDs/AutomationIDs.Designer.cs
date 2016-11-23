@@ -79,6 +79,60 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CloneAGitHubRepositoryWindow.
+        /// </summary>
+        public static string CloneAGitHubRepositoryWindow {
+            get {
+                return ResourceManager.GetString("CloneAGitHubRepositoryWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CloneRepositoryButton.
+        /// </summary>
+        public static string CloneRepositoryButton {
+            get {
+                return ResourceManager.GetString("CloneRepositoryButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CloneRepositoryCloseButton.
+        /// </summary>
+        public static string CloneRepositoryCloseButton {
+            get {
+                return ResourceManager.GetString("CloneRepositoryCloseButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CloneRepositoryLocalPathBrowsePathButton.
+        /// </summary>
+        public static string CloneRepositoryLocalPathBrowsePathButton {
+            get {
+                return ResourceManager.GetString("CloneRepositoryLocalPathBrowsePathButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CloneRepositoryLocalPathCustom.
+        /// </summary>
+        public static string CloneRepositoryLocalPathCustom {
+            get {
+                return ResourceManager.GetString("CloneRepositoryLocalPathCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CloneRepositoryTitleBar.
+        /// </summary>
+        public static string CloneRepositoryTitleBar {
+            get {
+                return ResourceManager.GetString("CloneRepositoryTitleBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CreateAGitHubRepositoryWindow.
         /// </summary>
         public static string CreateAGitHubRepositoryWindow {
@@ -147,6 +201,15 @@ namespace GithubVSAutomationIDs {
         public static string CreateRepositoryButton {
             get {
                 return ResourceManager.GetString("CreateRepositoryButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreateRepositoryCloseButton.
+        /// </summary>
+        public static string CreateRepositoryCloseButton {
+            get {
+                return ResourceManager.GetString("CreateRepositoryCloseButton", resourceCulture);
             }
         }
         
@@ -430,6 +493,15 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to RepositoryCloneControlCustom.
+        /// </summary>
+        public static string RepositoryCloneControlCustom {
+            get {
+                return ResourceManager.GetString("RepositoryCloneControlCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to RepositoryCloneModal.
         /// </summary>
         public static string RepositoryCloneModal {
@@ -466,6 +538,24 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to RepositoryGroupItem.
+        /// </summary>
+        public static string RepositoryGroupItem {
+            get {
+                return ResourceManager.GetString("RepositoryGroupItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to RepositoryListBoxItem.
+        /// </summary>
+        public static string RepositoryListBoxItem {
+            get {
+                return ResourceManager.GetString("RepositoryListBoxItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to RepositoryNameTextBlock.
         /// </summary>
         public static string RepositoryNameTextBlock {
@@ -480,6 +570,15 @@ namespace GithubVSAutomationIDs {
         public static string RepositoryNameTextBox {
             get {
                 return ResourceManager.GetString("RepositoryNameTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SearchRepositoryTextBox.
+        /// </summary>
+        public static string SearchRepositoryTextBox {
+            get {
+                return ResourceManager.GetString("SearchRepositoryTextBox", resourceCulture);
             }
         }
         

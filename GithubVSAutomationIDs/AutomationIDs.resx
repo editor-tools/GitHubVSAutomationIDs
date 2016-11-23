@@ -207,8 +207,29 @@
   <data name="AccountListBoxItem" xml:space="preserve">
     <value>AccountListBoxItem</value>
   </data>
+  <data name="CloneAGitHubRepositoryWindow" xml:space="preserve">
+    <value>CloneAGitHubRepositoryWindow</value>
+  </data>
+  <data name="CloneRepositoryButton" xml:space="preserve">
+    <value>CloneRepositoryButton</value>
+  </data>
+  <data name="CloneRepositoryCloseButton" xml:space="preserve">
+    <value>CloneRepositoryCloseButton</value>
+  </data>
+  <data name="CloneRepositoryLocalPathBrowsePathButton" xml:space="preserve">
+    <value>CloneRepositoryLocalPathBrowsePathButton</value>
+  </data>
+  <data name="CloneRepositoryLocalPathCustom" xml:space="preserve">
+    <value>CloneRepositoryLocalPathCustom</value>
+  </data>
+  <data name="CloneRepositoryTitleBar" xml:space="preserve">
+    <value>CloneRepositoryTitleBar</value>
+  </data>
   <data name="CreateRepositoryButton" xml:space="preserve">
     <value>CreateRepositoryButton</value>
+  </data>
+  <data name="CreateRepositoryCloseButton" xml:space="preserve">
+    <value>CreateRepositoryCloseButton</value>
   </data>
   <data name="CreateRepositoryLocalPathBrowsePathButton" xml:space="preserve">
     <value>CreateRepositoryLocalPathBrowseButton</value>
@@ -252,6 +273,9 @@
   <data name="PrivateRepositoryCheckbox" xml:space="preserve">
     <value>PrivateRepositoryCheckBox</value>
   </data>
+  <data name="RepositoryCloneControlCustom" xml:space="preserve">
+    <value>RepositoryCloneControlCustom</value>
+  </data>
   <data name="RepositoryCreationControlCustom" xml:space="preserve">
     <value>RepositoryCreationControlCustom</value>
   </data>
@@ -261,10 +285,19 @@
   <data name="RepositoryDescriptionTextBox" xml:space="preserve">
     <value>RepositoryDescriptionTextBox</value>
   </data>
+  <data name="RepositoryGroupItem" xml:space="preserve">
+    <value>RepositoryGroupItem</value>
+  </data>
+  <data name="RepositoryListBoxItem" xml:space="preserve">
+    <value>RepositoryListBoxItem</value>
+  </data>
   <data name="RepositoryNameTextBlock" xml:space="preserve">
     <value>RepositoryNameTextBlock</value>
   </data>
   <data name="RepositoryNameTextBox" xml:space="preserve">
     <value>RepositoryNameTextBox</value>
+  </data>
+  <data name="SearchRepositoryTextBox" xml:space="preserve">
+    <value>SearchRepositoryTextBox</value>
   </data>
 </root>
