@@ -225,6 +225,15 @@
   <data name="CloneRepositoryTitleBar" xml:space="preserve">
     <value>CloneRepositoryTitleBar</value>
   </data>
+  <data name="CreateAGitHubGistControl" xml:space="preserve">
+    <value>CreateAGitHubGistControl</value>
+  </data>
+  <data name="CreateAGitHubGistTitleBar" xml:space="preserve">
+    <value>CreateAGitHubGistTitleBar</value>
+  </data>
+  <data name="CreateGistButton" xml:space="preserve">
+    <value>CreateGistButton</value>
+  </data>
   <data name="CreateRepositoryButton" xml:space="preserve">
     <value>CreateRepositoryButton</value>
   </data>
@@ -239,6 +248,30 @@
   </data>
   <data name="CreateRepositoryTitleBar" xml:space="preserve">
     <value>CreateRepositoryTitleBar</value>
+  </data>
+  <data name="GistAccountImage" xml:space="preserve">
+    <value>GistAccounImage</value>
+  </data>
+  <data name="GistAccountNameTextBlock" xml:space="preserve">
+    <value>GistAccountNameTextBlock</value>
+  </data>
+  <data name="GistCreationControlCustom" xml:space="preserve">
+    <value>GistCreationControlCustom</value>
+  </data>
+  <data name="GistDescriptionTextBlock" xml:space="preserve">
+    <value>GistDescriptionTextBlock</value>
+  </data>
+  <data name="GistDescriptionTextBox" xml:space="preserve">
+    <value>GistDescriptionTextBox</value>
+  </data>
+  <data name="GistErrorMessageTextBlock" xml:space="preserve">
+    <value>GistErrorMessageTextBlock</value>
+  </data>
+  <data name="GistFileNameTextBlock" xml:space="preserve">
+    <value>GistFileNameTextBlock</value>
+  </data>
+  <data name="GistFileNameTextBox" xml:space="preserve">
+    <value>GistFileNameTextBox</value>
   </data>
   <data name="GitignoreComboBox" xml:space="preserve">
     <value>GitignoreComboBox</value>
@@ -269,6 +302,9 @@
   </data>
   <data name="LicenseTextBlock" xml:space="preserve">
     <value>LicenseTextBlock</value>
+  </data>
+  <data name="PrivateGistCheckBox" xml:space="preserve">
+    <value>PrivateGistCheckBox</value>
   </data>
   <data name="PrivateRepositoryCheckbox" xml:space="preserve">
     <value>PrivateRepositoryCheckBox</value>

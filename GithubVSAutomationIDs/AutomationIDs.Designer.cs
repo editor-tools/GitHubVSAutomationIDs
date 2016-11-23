@@ -133,6 +133,24 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CreateAGitHubGistControl.
+        /// </summary>
+        public static string CreateAGitHubGistControl {
+            get {
+                return ResourceManager.GetString("CreateAGitHubGistControl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreateAGitHubGistTitleBar.
+        /// </summary>
+        public static string CreateAGitHubGistTitleBar {
+            get {
+                return ResourceManager.GetString("CreateAGitHubGistTitleBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CreateAGitHubRepositoryWindow.
         /// </summary>
         public static string CreateAGitHubRepositoryWindow {
@@ -187,6 +205,15 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CreateGistButton.
+        /// </summary>
+        public static string CreateGistButton {
+            get {
+                return ResourceManager.GetString("CreateGistButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CreateNewHyperlink.
         /// </summary>
         public static string CreateNewHyperlink {
@@ -237,6 +264,78 @@ namespace GithubVSAutomationIDs {
         public static string CreateRepositoryTitleBar {
             get {
                 return ResourceManager.GetString("CreateRepositoryTitleBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistAccounImage.
+        /// </summary>
+        public static string GistAccountImage {
+            get {
+                return ResourceManager.GetString("GistAccountImage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistAccountNameTextBlock.
+        /// </summary>
+        public static string GistAccountNameTextBlock {
+            get {
+                return ResourceManager.GetString("GistAccountNameTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistCreationControlCustom.
+        /// </summary>
+        public static string GistCreationControlCustom {
+            get {
+                return ResourceManager.GetString("GistCreationControlCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistDescriptionTextBlock.
+        /// </summary>
+        public static string GistDescriptionTextBlock {
+            get {
+                return ResourceManager.GetString("GistDescriptionTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistDescriptionTextBox.
+        /// </summary>
+        public static string GistDescriptionTextBox {
+            get {
+                return ResourceManager.GetString("GistDescriptionTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistErrorMessageTextBlock.
+        /// </summary>
+        public static string GistErrorMessageTextBlock {
+            get {
+                return ResourceManager.GetString("GistErrorMessageTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistFileNameTextBlock.
+        /// </summary>
+        public static string GistFileNameTextBlock {
+            get {
+                return ResourceManager.GetString("GistFileNameTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GistFileNameTextBox.
+        /// </summary>
+        public static string GistFileNameTextBox {
+            get {
+                return ResourceManager.GetString("GistFileNameTextBox", resourceCulture);
             }
         }
         
@@ -354,6 +453,15 @@ namespace GithubVSAutomationIDs {
         public static string LicenseTextBlock {
             get {
                 return ResourceManager.GetString("LicenseTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PrivateGistCheckBox.
+        /// </summary>
+        public static string PrivateGistCheckBox {
+            get {
+                return ResourceManager.GetString("PrivateGistCheckBox", resourceCulture);
             }
         }
         
