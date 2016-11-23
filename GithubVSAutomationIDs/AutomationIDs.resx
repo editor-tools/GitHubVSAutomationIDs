@@ -117,26 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="GistModal" xml:space="preserve">
-    <value>GistModal</value>
-  </data>
-  <data name="SignInModal" xml:space="preserve">
-    <value>SignInModal</value>
-  </data>
-  <data name="RepositoryCloneModal" xml:space="preserve">
-    <value>RepositoryCloneModal</value>
-  </data>
   <data name="CreateAGitHubRepositoryWindow" xml:space="preserve">
     <value>CreateAGitHubRepositoryWindow</value>
   </data>
-  <data name="TwoFactorAuthenticationModal" xml:space="preserve">
-    <value>TwoFactorAuthenticationModal</value>
-  </data>
   <data name="GitHubInfoPanel" xml:space="preserve">
     <value>GitHubInfoPanel</value>
-  </data>
-  <data name="GitHubPane" xml:space="preserve">
-    <value>GitHubPane</value>
   </data>
   <data name="PullRequestCreationViewCustom" xml:space="preserve">
     <value>PullRequestCreationViewCustom</value>
@@ -262,7 +247,7 @@
     <value>DontHaveDotcomAccountTextBlock</value>
   </data>
   <data name="DontHaveEnterpriseTextBlock" xml:space="preserve">
-    <value>DontHaveEnterpriseTextBlock</value>
+    <value />
   </data>
   <data name="DotcomPasswordTextBox" xml:space="preserve">
     <value>DotcomPasswordTextBox</value>

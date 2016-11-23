@@ -304,7 +304,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DontHaveEnterpriseTextBlock.
+        ///   Looks up a localized string similar to .
         /// </summary>
         public static string DontHaveEnterpriseTextBlock {
             get {
@@ -466,29 +466,11 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to GistModal.
-        /// </summary>
-        public static string GistModal {
-            get {
-                return ResourceManager.GetString("GistModal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to GitHubInfoPanel.
         /// </summary>
         public static string GitHubInfoPanel {
             get {
                 return ResourceManager.GetString("GitHubInfoPanel", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to GitHubPane.
-        /// </summary>
-        public static string GitHubPane {
-            get {
-                return ResourceManager.GetString("GitHubPane", resourceCulture);
             }
         }
         
@@ -736,15 +718,6 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to RepositoryCloneModal.
-        /// </summary>
-        public static string RepositoryCloneModal {
-            get {
-                return ResourceManager.GetString("RepositoryCloneModal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to RepositoryCreationControlCustom.
         /// </summary>
         public static string RepositoryCreationControlCustom {
@@ -858,24 +831,6 @@ namespace GithubVSAutomationIDs {
         public static string SignInHostTab {
             get {
                 return ResourceManager.GetString("SignInHostTab", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to SignInModal.
-        /// </summary>
-        public static string SignInModal {
-            get {
-                return ResourceManager.GetString("SignInModal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationModal.
-        /// </summary>
-        public static string TwoFactorAuthenticationModal {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticationModal", resourceCulture);
             }
         }
     }
