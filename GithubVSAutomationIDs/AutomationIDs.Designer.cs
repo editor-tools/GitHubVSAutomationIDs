@@ -133,6 +133,33 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ConnectToGitHubCloseButton.
+        /// </summary>
+        public static string ConnectToGitHubCloseButton {
+            get {
+                return ResourceManager.GetString("ConnectToGitHubCloseButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ConnectToGitHubTitleBar.
+        /// </summary>
+        public static string ConnectToGitHubTitleBar {
+            get {
+                return ResourceManager.GetString("ConnectToGitHubTitleBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ConnectToGitHubWindow.
+        /// </summary>
+        public static string ConnectToGitHubWindow {
+            get {
+                return ResourceManager.GetString("ConnectToGitHubWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CreateAGitHubGistControl.
         /// </summary>
         public static string CreateAGitHubGistControl {
@@ -264,6 +291,105 @@ namespace GithubVSAutomationIDs {
         public static string CreateRepositoryTitleBar {
             get {
                 return ResourceManager.GetString("CreateRepositoryTitleBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DontHaveDotcomAccountTextBlock.
+        /// </summary>
+        public static string DontHaveDotcomAccountTextBlock {
+            get {
+                return ResourceManager.GetString("DontHaveDotcomAccountTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DontHaveEnterpriseTextBlock.
+        /// </summary>
+        public static string DontHaveEnterpriseTextBlock {
+            get {
+                return ResourceManager.GetString("DontHaveEnterpriseTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DotcomPasswordTextBox.
+        /// </summary>
+        public static string DotcomPasswordTextBox {
+            get {
+                return ResourceManager.GetString("DotcomPasswordTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DotcomSignInButton.
+        /// </summary>
+        public static string DotcomSignInButton {
+            get {
+                return ResourceManager.GetString("DotcomSignInButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DotcomSignUpHyperlink.
+        /// </summary>
+        public static string DotcomSignUpHyperlink {
+            get {
+                return ResourceManager.GetString("DotcomSignUpHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DotcomUsernameEmailTextBox.
+        /// </summary>
+        public static string DotcomUsernameEmailTextBox {
+            get {
+                return ResourceManager.GetString("DotcomUsernameEmailTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EnterpriseLearnMoreHyperlink.
+        /// </summary>
+        public static string EnterpriseLearnMoreHyperlink {
+            get {
+                return ResourceManager.GetString("EnterpriseLearnMoreHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EnterprisePasswordTextBox.
+        /// </summary>
+        public static string EnterprisePasswordTextBox {
+            get {
+                return ResourceManager.GetString("EnterprisePasswordTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EnterpriseServerAddressTextBox.
+        /// </summary>
+        public static string EnterpriseServerAddressTextBox {
+            get {
+                return ResourceManager.GetString("EnterpriseServerAddressTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EnterpriseSignInButton.
+        /// </summary>
+        public static string EnterpriseSignInButton {
+            get {
+                return ResourceManager.GetString("EnterpriseSignInButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EnterpriseUsernameEmailTextBox.
+        /// </summary>
+        public static string EnterpriseUsernameEmailTextBox {
+            get {
+                return ResourceManager.GetString("EnterpriseUsernameEmailTextBox", resourceCulture);
             }
         }
         
@@ -696,6 +822,42 @@ namespace GithubVSAutomationIDs {
         public static string SelectABranchComboBox {
             get {
                 return ResourceManager.GetString("SelectABranchComboBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignInCustom.
+        /// </summary>
+        public static string SignInCustom {
+            get {
+                return ResourceManager.GetString("SignInCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignInDotcomHostTabItem.
+        /// </summary>
+        public static string SignInDotcomHostTabItem {
+            get {
+                return ResourceManager.GetString("SignInDotcomHostTabItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignInEnterpriseHostTabItem.
+        /// </summary>
+        public static string SignInEnterpriseHostTabItem {
+            get {
+                return ResourceManager.GetString("SignInEnterpriseHostTabItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignInHostTab.
+        /// </summary>
+        public static string SignInHostTab {
+            get {
+                return ResourceManager.GetString("SignInHostTab", resourceCulture);
             }
         }
         

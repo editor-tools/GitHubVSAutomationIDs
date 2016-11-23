@@ -225,6 +225,15 @@
   <data name="CloneRepositoryTitleBar" xml:space="preserve">
     <value>CloneRepositoryTitleBar</value>
   </data>
+  <data name="ConnectToGitHubCloseButton" xml:space="preserve">
+    <value>ConnectToGitHubCloseButton</value>
+  </data>
+  <data name="ConnectToGitHubTitleBar" xml:space="preserve">
+    <value>ConnectToGitHubTitleBar</value>
+  </data>
+  <data name="ConnectToGitHubWindow" xml:space="preserve">
+    <value>ConnectToGitHubWindow</value>
+  </data>
   <data name="CreateAGitHubGistControl" xml:space="preserve">
     <value>CreateAGitHubGistControl</value>
   </data>
@@ -248,6 +257,39 @@
   </data>
   <data name="CreateRepositoryTitleBar" xml:space="preserve">
     <value>CreateRepositoryTitleBar</value>
+  </data>
+  <data name="DontHaveDotcomAccountTextBlock" xml:space="preserve">
+    <value>DontHaveDotcomAccountTextBlock</value>
+  </data>
+  <data name="DontHaveEnterpriseTextBlock" xml:space="preserve">
+    <value>DontHaveEnterpriseTextBlock</value>
+  </data>
+  <data name="DotcomPasswordTextBox" xml:space="preserve">
+    <value>DotcomPasswordTextBox</value>
+  </data>
+  <data name="DotcomSignInButton" xml:space="preserve">
+    <value>DotcomSignInButton</value>
+  </data>
+  <data name="DotcomSignUpHyperlink" xml:space="preserve">
+    <value>DotcomSignUpHyperlink</value>
+  </data>
+  <data name="DotcomUsernameEmailTextBox" xml:space="preserve">
+    <value>DotcomUsernameEmailTextBox</value>
+  </data>
+  <data name="EnterpriseLearnMoreHyperlink" xml:space="preserve">
+    <value>EnterpriseLearnMoreHyperlink</value>
+  </data>
+  <data name="EnterprisePasswordTextBox" xml:space="preserve">
+    <value>EnterprisePasswordTextBox</value>
+  </data>
+  <data name="EnterpriseServerAddressTextBox" xml:space="preserve">
+    <value>EnterpriseServerAddressTextBox</value>
+  </data>
+  <data name="EnterpriseSignInButton" xml:space="preserve">
+    <value>EnterpriseSignInButton</value>
+  </data>
+  <data name="EnterpriseUsernameEmailTextBox" xml:space="preserve">
+    <value>EnterpriseUsernameEmailTextBox</value>
   </data>
   <data name="GistAccountImage" xml:space="preserve">
     <value>GistAccounImage</value>
@@ -335,5 +377,17 @@
   </data>
   <data name="SearchRepositoryTextBox" xml:space="preserve">
     <value>SearchRepositoryTextBox</value>
+  </data>
+  <data name="SignInCustom" xml:space="preserve">
+    <value>SignInCustom</value>
+  </data>
+  <data name="SignInDotcomHostTabItem" xml:space="preserve">
+    <value>SignInDotcomHostTabItem</value>
+  </data>
+  <data name="SignInEnterpriseHostTabItem" xml:space="preserve">
+    <value>SignInEnterpriseHostTabItem</value>
+  </data>
+  <data name="SignInHostTab" xml:space="preserve">
+    <value>SignInHostTab</value>
   </data>
 </root>
