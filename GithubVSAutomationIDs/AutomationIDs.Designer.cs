@@ -304,7 +304,7 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to DontHaveEnterpriseTextBlock.
         /// </summary>
         public static string DontHaveEnterpriseTextBlock {
             get {

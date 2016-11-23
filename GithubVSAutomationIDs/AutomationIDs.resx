@@ -247,7 +247,7 @@
     <value>DontHaveDotcomAccountTextBlock</value>
   </data>
   <data name="DontHaveEnterpriseTextBlock" xml:space="preserve">
-    <value />
+    <value>DontHaveEnterpriseTextBlock</value>
   </data>
   <data name="DotcomPasswordTextBox" xml:space="preserve">
     <value>DotcomPasswordTextBox</value>
