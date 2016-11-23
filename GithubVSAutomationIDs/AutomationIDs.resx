@@ -189,4 +189,19 @@
   <data name="GitHubToolBarRefreshImage" xml:space="preserve">
     <value>GitHubToolBarRefreshImage</value>
   </data>
+  <data name="GitHubLoggedOutCreateAnAccountHyperlink" xml:space="preserve">
+    <value>GitHubLoggedOutCreateAnAccountHyperlink</value>
+  </data>
+  <data name="GitHubLoggedOutSignInHyperlink" xml:space="preserve">
+    <value>GitHubLoggedOutSignInHyperlink</value>
+  </data>
+  <data name="LoggedOutViewCustom" xml:space="preserve">
+    <value>LoggedOutViewCustom</value>
+  </data>
+  <data name="PowerfulCollaborationTextBlock" xml:space="preserve">
+    <value>PowerfulCollaborationTextBlock</value>
+  </data>
+  <data name="SignInToGitHubTextBlock" xml:space="preserve">
+    <value>SignInToGitHubTextBlock</value>
+  </data>
 </root>

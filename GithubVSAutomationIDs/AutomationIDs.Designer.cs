@@ -97,6 +97,24 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to GitHubLoggedOutCreateAnAccountHyperlink.
+        /// </summary>
+        public static string GitHubLoggedOutCreateAnAccountHyperlink {
+            get {
+                return ResourceManager.GetString("GitHubLoggedOutCreateAnAccountHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubLoggedOutSignInHyperlink.
+        /// </summary>
+        public static string GitHubLoggedOutSignInHyperlink {
+            get {
+                return ResourceManager.GetString("GitHubLoggedOutSignInHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to GitHubTabItem.
         /// </summary>
         public static string GitHubTabItem {
@@ -147,6 +165,24 @@ namespace GithubVSAutomationIDs {
         public static string GitHubToolBarRefreshImage {
             get {
                 return ResourceManager.GetString("GitHubToolBarRefreshImage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LoggedOutViewCustom.
+        /// </summary>
+        public static string LoggedOutViewCustom {
+            get {
+                return ResourceManager.GetString("LoggedOutViewCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PowerfulCollaborationTextBlock.
+        /// </summary>
+        public static string PowerfulCollaborationTextBlock {
+            get {
+                return ResourceManager.GetString("PowerfulCollaborationTextBlock", resourceCulture);
             }
         }
         
@@ -264,6 +300,15 @@ namespace GithubVSAutomationIDs {
         public static string SignInModal {
             get {
                 return ResourceManager.GetString("SignInModal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignInToGitHubTextBlock.
+        /// </summary>
+        public static string SignInToGitHubTextBlock {
+            get {
+                return ResourceManager.GetString("SignInToGitHubTextBlock", resourceCulture);
             }
         }
         
