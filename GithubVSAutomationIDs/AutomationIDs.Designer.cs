@@ -61,6 +61,33 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AccountComboBox.
+        /// </summary>
+        public static string AccountComboBox {
+            get {
+                return ResourceManager.GetString("AccountComboBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AccountListBoxItem.
+        /// </summary>
+        public static string AccountListBoxItem {
+            get {
+                return ResourceManager.GetString("AccountListBoxItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreateAGitHubRepositoryWindow.
+        /// </summary>
+        public static string CreateAGitHubRepositoryWindow {
+            get {
+                return ResourceManager.GetString("CreateAGitHubRepositoryWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CreatedPullRequestAuthorImage.
         /// </summary>
         public static string CreatedPullRequestAuthorImage {
@@ -115,6 +142,42 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CreateRepositoryButton.
+        /// </summary>
+        public static string CreateRepositoryButton {
+            get {
+                return ResourceManager.GetString("CreateRepositoryButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreateRepositoryLocalPathBrowseButton.
+        /// </summary>
+        public static string CreateRepositoryLocalPathBrowsePathButton {
+            get {
+                return ResourceManager.GetString("CreateRepositoryLocalPathBrowsePathButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreateRepositoryLocalPathTextBox.
+        /// </summary>
+        public static string CreateRepositoryLocalPathTextBox {
+            get {
+                return ResourceManager.GetString("CreateRepositoryLocalPathTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CreateRepositoryTitleBar.
+        /// </summary>
+        public static string CreateRepositoryTitleBar {
+            get {
+                return ResourceManager.GetString("CreateRepositoryTitleBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to GistModal.
         /// </summary>
         public static string GistModal {
@@ -138,6 +201,105 @@ namespace GithubVSAutomationIDs {
         public static string GitHubPane {
             get {
                 return ResourceManager.GetString("GitHubPane", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitignoreComboBox.
+        /// </summary>
+        public static string GitignoreComboBox {
+            get {
+                return ResourceManager.GetString("GitignoreComboBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitignoreFilterTextBox.
+        /// </summary>
+        public static string GitignoreFilterTextBox {
+            get {
+                return ResourceManager.GetString("GitignoreFilterTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitignoreListBoxItem.
+        /// </summary>
+        public static string GitignoreListBoxItem {
+            get {
+                return ResourceManager.GetString("GitignoreListBoxItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitignorePopupWindow.
+        /// </summary>
+        public static string GitignorePopupWindow {
+            get {
+                return ResourceManager.GetString("GitignorePopupWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitignoreTextBlock.
+        /// </summary>
+        public static string GitignoreTextBlock {
+            get {
+                return ResourceManager.GetString("GitignoreTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LicenseComboBox.
+        /// </summary>
+        public static string LicenseComboBox {
+            get {
+                return ResourceManager.GetString("LicenseComboBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LicenseFilterTextBox.
+        /// </summary>
+        public static string LicenseFilterTextBox {
+            get {
+                return ResourceManager.GetString("LicenseFilterTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LicenseListBoxItem.
+        /// </summary>
+        public static string LicenseListBoxItem {
+            get {
+                return ResourceManager.GetString("LicenseListBoxItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LicensePopupWindow.
+        /// </summary>
+        public static string LicensePopupWindow {
+            get {
+                return ResourceManager.GetString("LicensePopupWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LicenseTextBlock.
+        /// </summary>
+        public static string LicenseTextBlock {
+            get {
+                return ResourceManager.GetString("LicenseTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PrivateRepositoryCheckBox.
+        /// </summary>
+        public static string PrivateRepositoryCheckbox {
+            get {
+                return ResourceManager.GetString("PrivateRepositoryCheckbox", resourceCulture);
             }
         }
         
@@ -277,11 +439,47 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to RepositoryCreateModal.
+        ///   Looks up a localized string similar to RepositoryCreationControlCustom.
         /// </summary>
-        public static string RepositoryCreateModal {
+        public static string RepositoryCreationControlCustom {
             get {
-                return ResourceManager.GetString("RepositoryCreateModal", resourceCulture);
+                return ResourceManager.GetString("RepositoryCreationControlCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to RepositoryDescriptionTextBlock.
+        /// </summary>
+        public static string RepositoryDescriptionTextBlock {
+            get {
+                return ResourceManager.GetString("RepositoryDescriptionTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to RepositoryDescriptionTextBox.
+        /// </summary>
+        public static string RepositoryDescriptionTextBox {
+            get {
+                return ResourceManager.GetString("RepositoryDescriptionTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to RepositoryNameTextBlock.
+        /// </summary>
+        public static string RepositoryNameTextBlock {
+            get {
+                return ResourceManager.GetString("RepositoryNameTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to RepositoryNameTextBox.
+        /// </summary>
+        public static string RepositoryNameTextBox {
+            get {
+                return ResourceManager.GetString("RepositoryNameTextBox", resourceCulture);
             }
         }
         

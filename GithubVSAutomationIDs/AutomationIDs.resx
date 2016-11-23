@@ -126,8 +126,8 @@
   <data name="RepositoryCloneModal" xml:space="preserve">
     <value>RepositoryCloneModal</value>
   </data>
-  <data name="RepositoryCreateModal" xml:space="preserve">
-    <value>RepositoryCreateModal</value>
+  <data name="CreateAGitHubRepositoryWindow" xml:space="preserve">
+    <value>CreateAGitHubRepositoryWindow</value>
   </data>
   <data name="TwoFactorAuthenticationModal" xml:space="preserve">
     <value>TwoFactorAuthenticationModal</value>
@@ -200,5 +200,71 @@
   </data>
   <data name="PullRequestRepositoryNameTextBlock" xml:space="preserve">
     <value>PullRequestRepositoryNameTextBlock</value>
+  </data>
+  <data name="AccountComboBox" xml:space="preserve">
+    <value>AccountComboBox</value>
+  </data>
+  <data name="AccountListBoxItem" xml:space="preserve">
+    <value>AccountListBoxItem</value>
+  </data>
+  <data name="CreateRepositoryButton" xml:space="preserve">
+    <value>CreateRepositoryButton</value>
+  </data>
+  <data name="CreateRepositoryLocalPathBrowsePathButton" xml:space="preserve">
+    <value>CreateRepositoryLocalPathBrowseButton</value>
+  </data>
+  <data name="CreateRepositoryLocalPathTextBox" xml:space="preserve">
+    <value>CreateRepositoryLocalPathTextBox</value>
+  </data>
+  <data name="CreateRepositoryTitleBar" xml:space="preserve">
+    <value>CreateRepositoryTitleBar</value>
+  </data>
+  <data name="GitignoreComboBox" xml:space="preserve">
+    <value>GitignoreComboBox</value>
+  </data>
+  <data name="GitignoreFilterTextBox" xml:space="preserve">
+    <value>GitignoreFilterTextBox</value>
+  </data>
+  <data name="GitignoreListBoxItem" xml:space="preserve">
+    <value>GitignoreListBoxItem</value>
+  </data>
+  <data name="GitignorePopupWindow" xml:space="preserve">
+    <value>GitignorePopupWindow</value>
+  </data>
+  <data name="GitignoreTextBlock" xml:space="preserve">
+    <value>GitignoreTextBlock</value>
+  </data>
+  <data name="LicenseComboBox" xml:space="preserve">
+    <value>LicenseComboBox</value>
+  </data>
+  <data name="LicenseFilterTextBox" xml:space="preserve">
+    <value>LicenseFilterTextBox</value>
+  </data>
+  <data name="LicenseListBoxItem" xml:space="preserve">
+    <value>LicenseListBoxItem</value>
+  </data>
+  <data name="LicensePopupWindow" xml:space="preserve">
+    <value>LicensePopupWindow</value>
+  </data>
+  <data name="LicenseTextBlock" xml:space="preserve">
+    <value>LicenseTextBlock</value>
+  </data>
+  <data name="PrivateRepositoryCheckbox" xml:space="preserve">
+    <value>PrivateRepositoryCheckBox</value>
+  </data>
+  <data name="RepositoryCreationControlCustom" xml:space="preserve">
+    <value>RepositoryCreationControlCustom</value>
+  </data>
+  <data name="RepositoryDescriptionTextBlock" xml:space="preserve">
+    <value>RepositoryDescriptionTextBlock</value>
+  </data>
+  <data name="RepositoryDescriptionTextBox" xml:space="preserve">
+    <value>RepositoryDescriptionTextBox</value>
+  </data>
+  <data name="RepositoryNameTextBlock" xml:space="preserve">
+    <value>RepositoryNameTextBlock</value>
+  </data>
+  <data name="RepositoryNameTextBox" xml:space="preserve">
+    <value>RepositoryNameTextBox</value>
   </data>
 </root>
