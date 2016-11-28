@@ -403,6 +403,60 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerPrivateRepositoryCheckBox.
+        /// </summary>
+        public static string TeamExplorerPrivateRepositoryCheckBox {
+            get {
+                return ResourceManager.GetString("TeamExplorerPrivateRepositoryCheckBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerPublishAccountComboBox.
+        /// </summary>
+        public static string TeamExplorerPublishAccountComboBox {
+            get {
+                return ResourceManager.GetString("TeamExplorerPublishAccountComboBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerPublishHostComboBox.
+        /// </summary>
+        public static string TeamExplorerPublishHostComboBox {
+            get {
+                return ResourceManager.GetString("TeamExplorerPublishHostComboBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerPublishRepositoryButton.
+        /// </summary>
+        public static string TeamExplorerPublishRepositoryButton {
+            get {
+                return ResourceManager.GetString("TeamExplorerPublishRepositoryButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerPublishRepositoryDescriptionTextBox.
+        /// </summary>
+        public static string TeamExplorerPublishRepositoryDescriptionTextBox {
+            get {
+                return ResourceManager.GetString("TeamExplorerPublishRepositoryDescriptionTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerPublishRepositoryNameTextBox.
+        /// </summary>
+        public static string TeamExplorerPublishRepositoryNameTextBox {
+            get {
+                return ResourceManager.GetString("TeamExplorerPublishRepositoryNameTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to TeamExplorerRepositoryListBoxItem.
         /// </summary>
         public static string TeamExplorerRepositoryListBoxItem {
@@ -435,6 +489,33 @@ namespace GithubVSAutomationIDs {
         public static string TeamExplorerRepositoryURLTextBlock {
             get {
                 return ResourceManager.GetString("TeamExplorerRepositoryURLTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerSyncGitHubRepositoryPublishCustom.
+        /// </summary>
+        public static string TeamExplorerSyncGitHubRepositoryPublishCustom {
+            get {
+                return ResourceManager.GetString("TeamExplorerSyncGitHubRepositoryPublishCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerSyncGitHubSectionButton.
+        /// </summary>
+        public static string TeamExplorerSyncGitHubSectionButton {
+            get {
+                return ResourceManager.GetString("TeamExplorerSyncGitHubSectionButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TeamExplorerSyncGitHubSectionTextBlock.
+        /// </summary>
+        public static string TeamExplorerSyncGitHubSectionTextBlock {
+            get {
+                return ResourceManager.GetString("TeamExplorerSyncGitHubSectionTextBlock", resourceCulture);
             }
         }
         
