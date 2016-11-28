@@ -375,4 +375,46 @@
   <data name="SignInHostTab" xml:space="preserve">
     <value>SignInHostTab</value>
   </data>
+  <data name="TwoFactorAuthenticationCloseButton" xml:space="preserve">
+    <value>TwoFactorAuthenticationCloseButton</value>
+  </data>
+  <data name="TwoFactorAuthenticationCustom" xml:space="preserve">
+    <value>TwoFactorAuthenticationCustom</value>
+  </data>
+  <data name="TwoFactorAuthenticationInformationTextBlock" xml:space="preserve">
+    <value>TwoFactorAuthenticationInformationTextBlock</value>
+  </data>
+  <data name="TwoFactorAuthenticationLearnMoreHyperlink" xml:space="preserve">
+    <value>TwoFactorAuthenticationLearnMoreHyperlink</value>
+  </data>
+  <data name="TwoFactorAuthenticationTitleBar" xml:space="preserve">
+    <value>TwoFactorAuthenticationTitleBar</value>
+  </data>
+  <data name="TwoFactorAuthenticationWindow" xml:space="preserve">
+    <value>TwoFactorAuthenticationWindow</value>
+  </data>
+  <data name="TwoFactorAuthenticatonInputCustom" xml:space="preserve">
+    <value>TwoFactorAuthenticatonInputCustom</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberFiveTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberFiveTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberFourTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberFourTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberOneTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberOneTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberSixTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberSixTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberThreeTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberThreeTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberTwoTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberTwoTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonVerifyButton" xml:space="preserve">
+    <value>TwoFactorAuthenticatonVerifyButton</value>
+  </data>
 </root>
