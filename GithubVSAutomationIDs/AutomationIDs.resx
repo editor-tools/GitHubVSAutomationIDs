@@ -123,6 +123,9 @@
   <data name="GitHubInfoPanel" xml:space="preserve">
     <value>GitHubInfoPanel</value>
   </data>
+  <data name="GitHubTabItem" xml:space="preserve">
+    <value>GitHubTabItem</value>
+  </data>
   <data name="PullRequestCreationViewCustom" xml:space="preserve">
     <value>PullRequestCreationViewCustom</value>
   </data>
@@ -416,5 +419,41 @@
   </data>
   <data name="TwoFactorAuthenticatonVerifyButton" xml:space="preserve">
     <value>TwoFactorAuthenticatonVerifyButton</value>
+  </data>
+  <data name="GitHubInfoPanelCancelButton" xml:space="preserve">
+    <value>GitHubInfoPanelCancelButton</value>
+  </data>
+  <data name="GitHubInfoPanelMessageDocument" xml:space="preserve">
+    <value>GitHubInfoPanelMessageDocument</value>
+  </data>
+  <data name="GitHubToolBar" xml:space="preserve">
+    <value>GitHubToolBar</value>
+  </data>
+  <data name="GitHubToolBarBackImage" xml:space="preserve">
+    <value>GitHubToolBarBackImage</value>
+  </data>
+  <data name="GitHubToolBarForwardImage" xml:space="preserve">
+    <value>GitHubToolBarForwardImage</value>
+  </data>
+  <data name="GitHubToolBarPullRequestImage" xml:space="preserve">
+    <value>GitHubToolBarPullRequestImage</value>
+  </data>
+  <data name="GitHubToolBarRefreshImage" xml:space="preserve">
+    <value>GitHubToolBarRefreshImage</value>
+  </data>
+  <data name="GitHubLoggedOutCreateAnAccountHyperlink" xml:space="preserve">
+    <value>GitHubLoggedOutCreateAnAccountHyperlink</value>
+  </data>
+  <data name="GitHubLoggedOutSignInHyperlink" xml:space="preserve">
+    <value>GitHubLoggedOutSignInHyperlink</value>
+  </data>
+  <data name="LoggedOutViewCustom" xml:space="preserve">
+    <value>LoggedOutViewCustom</value>
+  </data>
+  <data name="PowerfulCollaborationTextBlock" xml:space="preserve">
+    <value>PowerfulCollaborationTextBlock</value>
+  </data>
+  <data name="SignInToGitHubTextBlock" xml:space="preserve">
+    <value>SignInToGitHubTextBlock</value>
   </data>
 </root>
