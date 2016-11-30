@@ -178,11 +178,110 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to GitHubPane.
+        ///   Looks up a localized string similar to GitHubInfoPanelCancelButton.
         /// </summary>
-        public static string GitHubPane {
+        public static string GitHubInfoPanelCancelButton {
             get {
-                return ResourceManager.GetString("GitHubPane", resourceCulture);
+                return ResourceManager.GetString("GitHubInfoPanelCancelButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubInfoPanelMessageDocument.
+        /// </summary>
+        public static string GitHubInfoPanelMessageDocument {
+            get {
+                return ResourceManager.GetString("GitHubInfoPanelMessageDocument", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubLoggedOutCreateAnAccountHyperlink.
+        /// </summary>
+        public static string GitHubLoggedOutCreateAnAccountHyperlink {
+            get {
+                return ResourceManager.GetString("GitHubLoggedOutCreateAnAccountHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubLoggedOutSignInHyperlink.
+        /// </summary>
+        public static string GitHubLoggedOutSignInHyperlink {
+            get {
+                return ResourceManager.GetString("GitHubLoggedOutSignInHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubTabItem.
+        /// </summary>
+        public static string GitHubTabItem {
+            get {
+                return ResourceManager.GetString("GitHubTabItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubToolBar.
+        /// </summary>
+        public static string GitHubToolBar {
+            get {
+                return ResourceManager.GetString("GitHubToolBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubToolBarBackImage.
+        /// </summary>
+        public static string GitHubToolBarBackImage {
+            get {
+                return ResourceManager.GetString("GitHubToolBarBackImage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubToolBarForwardImage.
+        /// </summary>
+        public static string GitHubToolBarForwardImage {
+            get {
+                return ResourceManager.GetString("GitHubToolBarForwardImage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubToolBarPullRequestImage.
+        /// </summary>
+        public static string GitHubToolBarPullRequestImage {
+            get {
+                return ResourceManager.GetString("GitHubToolBarPullRequestImage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GitHubToolBarRefreshImage.
+        /// </summary>
+        public static string GitHubToolBarRefreshImage {
+            get {
+                return ResourceManager.GetString("GitHubToolBarRefreshImage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LoggedOutViewCustom.
+        /// </summary>
+        public static string LoggedOutViewCustom {
+            get {
+                return ResourceManager.GetString("LoggedOutViewCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PowerfulCollaborationTextBlock.
+        /// </summary>
+        public static string PowerfulCollaborationTextBlock {
+            get {
+                return ResourceManager.GetString("PowerfulCollaborationTextBlock", resourceCulture);
             }
         }
         
@@ -516,6 +615,15 @@ namespace GithubVSAutomationIDs {
         public static string TeamExplorerSyncGitHubSectionTextBlock {
             get {
                 return ResourceManager.GetString("TeamExplorerSyncGitHubSectionTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignInToGitHubTextBlock.
+        /// </summary>
+        public static string SignInToGitHubTextBlock {
+            get {
+                return ResourceManager.GetString("SignInToGitHubTextBlock", resourceCulture);
             }
         }
         
