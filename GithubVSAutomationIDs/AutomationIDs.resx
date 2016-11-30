@@ -117,20 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="GistModal" xml:space="preserve">
-    <value>GistModal</value>
-  </data>
-  <data name="SignInModal" xml:space="preserve">
-    <value>SignInModal</value>
-  </data>
-  <data name="RepositoryCloneModal" xml:space="preserve">
-    <value>RepositoryCloneModal</value>
-  </data>
-  <data name="RepositoryCreateModal" xml:space="preserve">
-    <value>RepositoryCreateModal</value>
-  </data>
-  <data name="TwoFactorAuthenticationModal" xml:space="preserve">
-    <value>TwoFactorAuthenticationModal</value>
+  <data name="CreateAGitHubRepositoryWindow" xml:space="preserve">
+    <value>CreateAGitHubRepositoryWindow</value>
   </data>
   <data name="GitHubInfoPanel" xml:space="preserve">
     <value>GitHubInfoPanel</value>
@@ -200,6 +188,237 @@
   </data>
   <data name="PullRequestRepositoryNameTextBlock" xml:space="preserve">
     <value>PullRequestRepositoryNameTextBlock</value>
+  </data>
+  <data name="AccountComboBox" xml:space="preserve">
+    <value>AccountComboBox</value>
+  </data>
+  <data name="AccountListBoxItem" xml:space="preserve">
+    <value>AccountListBoxItem</value>
+  </data>
+  <data name="CloneAGitHubRepositoryWindow" xml:space="preserve">
+    <value>CloneAGitHubRepositoryWindow</value>
+  </data>
+  <data name="CloneRepositoryButton" xml:space="preserve">
+    <value>CloneRepositoryButton</value>
+  </data>
+  <data name="CloneRepositoryCloseButton" xml:space="preserve">
+    <value>CloneRepositoryCloseButton</value>
+  </data>
+  <data name="CloneRepositoryLocalPathBrowsePathButton" xml:space="preserve">
+    <value>CloneRepositoryLocalPathBrowsePathButton</value>
+  </data>
+  <data name="CloneRepositoryLocalPathCustom" xml:space="preserve">
+    <value>CloneRepositoryLocalPathCustom</value>
+  </data>
+  <data name="CloneRepositoryTitleBar" xml:space="preserve">
+    <value>CloneRepositoryTitleBar</value>
+  </data>
+  <data name="ConnectToGitHubCloseButton" xml:space="preserve">
+    <value>ConnectToGitHubCloseButton</value>
+  </data>
+  <data name="ConnectToGitHubTitleBar" xml:space="preserve">
+    <value>ConnectToGitHubTitleBar</value>
+  </data>
+  <data name="ConnectToGitHubWindow" xml:space="preserve">
+    <value>ConnectToGitHubWindow</value>
+  </data>
+  <data name="CreateAGitHubGistControl" xml:space="preserve">
+    <value>CreateAGitHubGistControl</value>
+  </data>
+  <data name="CreateAGitHubGistTitleBar" xml:space="preserve">
+    <value>CreateAGitHubGistTitleBar</value>
+  </data>
+  <data name="CreateGistButton" xml:space="preserve">
+    <value>CreateGistButton</value>
+  </data>
+  <data name="CreateRepositoryButton" xml:space="preserve">
+    <value>CreateRepositoryButton</value>
+  </data>
+  <data name="CreateRepositoryCloseButton" xml:space="preserve">
+    <value>CreateRepositoryCloseButton</value>
+  </data>
+  <data name="CreateRepositoryLocalPathBrowsePathButton" xml:space="preserve">
+    <value>CreateRepositoryLocalPathBrowseButton</value>
+  </data>
+  <data name="CreateRepositoryLocalPathTextBox" xml:space="preserve">
+    <value>CreateRepositoryLocalPathTextBox</value>
+  </data>
+  <data name="CreateRepositoryTitleBar" xml:space="preserve">
+    <value>CreateRepositoryTitleBar</value>
+  </data>
+  <data name="DontHaveDotcomAccountTextBlock" xml:space="preserve">
+    <value>DontHaveDotcomAccountTextBlock</value>
+  </data>
+  <data name="DontHaveEnterpriseTextBlock" xml:space="preserve">
+    <value>DontHaveEnterpriseTextBlock</value>
+  </data>
+  <data name="DotcomPasswordTextBox" xml:space="preserve">
+    <value>DotcomPasswordTextBox</value>
+  </data>
+  <data name="DotcomSignInButton" xml:space="preserve">
+    <value>DotcomSignInButton</value>
+  </data>
+  <data name="DotcomSignUpHyperlink" xml:space="preserve">
+    <value>DotcomSignUpHyperlink</value>
+  </data>
+  <data name="DotcomUsernameEmailTextBox" xml:space="preserve">
+    <value>DotcomUsernameEmailTextBox</value>
+  </data>
+  <data name="EnterpriseLearnMoreHyperlink" xml:space="preserve">
+    <value>EnterpriseLearnMoreHyperlink</value>
+  </data>
+  <data name="EnterprisePasswordTextBox" xml:space="preserve">
+    <value>EnterprisePasswordTextBox</value>
+  </data>
+  <data name="EnterpriseServerAddressTextBox" xml:space="preserve">
+    <value>EnterpriseServerAddressTextBox</value>
+  </data>
+  <data name="EnterpriseSignInButton" xml:space="preserve">
+    <value>EnterpriseSignInButton</value>
+  </data>
+  <data name="EnterpriseUsernameEmailTextBox" xml:space="preserve">
+    <value>EnterpriseUsernameEmailTextBox</value>
+  </data>
+  <data name="GistAccountImage" xml:space="preserve">
+    <value>GistAccounImage</value>
+  </data>
+  <data name="GistAccountNameTextBlock" xml:space="preserve">
+    <value>GistAccountNameTextBlock</value>
+  </data>
+  <data name="GistCreationControlCustom" xml:space="preserve">
+    <value>GistCreationControlCustom</value>
+  </data>
+  <data name="GistDescriptionTextBlock" xml:space="preserve">
+    <value>GistDescriptionTextBlock</value>
+  </data>
+  <data name="GistDescriptionTextBox" xml:space="preserve">
+    <value>GistDescriptionTextBox</value>
+  </data>
+  <data name="GistErrorMessageTextBlock" xml:space="preserve">
+    <value>GistErrorMessageTextBlock</value>
+  </data>
+  <data name="GistFileNameTextBlock" xml:space="preserve">
+    <value>GistFileNameTextBlock</value>
+  </data>
+  <data name="GistFileNameTextBox" xml:space="preserve">
+    <value>GistFileNameTextBox</value>
+  </data>
+  <data name="GitignoreComboBox" xml:space="preserve">
+    <value>GitignoreComboBox</value>
+  </data>
+  <data name="GitignoreFilterTextBox" xml:space="preserve">
+    <value>GitignoreFilterTextBox</value>
+  </data>
+  <data name="GitignoreListBoxItem" xml:space="preserve">
+    <value>GitignoreListBoxItem</value>
+  </data>
+  <data name="GitignorePopupWindow" xml:space="preserve">
+    <value>GitignorePopupWindow</value>
+  </data>
+  <data name="GitignoreTextBlock" xml:space="preserve">
+    <value>GitignoreTextBlock</value>
+  </data>
+  <data name="LicenseComboBox" xml:space="preserve">
+    <value>LicenseComboBox</value>
+  </data>
+  <data name="LicenseFilterTextBox" xml:space="preserve">
+    <value>LicenseFilterTextBox</value>
+  </data>
+  <data name="LicenseListBoxItem" xml:space="preserve">
+    <value>LicenseListBoxItem</value>
+  </data>
+  <data name="LicensePopupWindow" xml:space="preserve">
+    <value>LicensePopupWindow</value>
+  </data>
+  <data name="LicenseTextBlock" xml:space="preserve">
+    <value>LicenseTextBlock</value>
+  </data>
+  <data name="PrivateGistCheckBox" xml:space="preserve">
+    <value>PrivateGistCheckBox</value>
+  </data>
+  <data name="PrivateRepositoryCheckbox" xml:space="preserve">
+    <value>PrivateRepositoryCheckBox</value>
+  </data>
+  <data name="RepositoryCloneControlCustom" xml:space="preserve">
+    <value>RepositoryCloneControlCustom</value>
+  </data>
+  <data name="RepositoryCreationControlCustom" xml:space="preserve">
+    <value>RepositoryCreationControlCustom</value>
+  </data>
+  <data name="RepositoryDescriptionTextBlock" xml:space="preserve">
+    <value>RepositoryDescriptionTextBlock</value>
+  </data>
+  <data name="RepositoryDescriptionTextBox" xml:space="preserve">
+    <value>RepositoryDescriptionTextBox</value>
+  </data>
+  <data name="RepositoryGroupItem" xml:space="preserve">
+    <value>RepositoryGroupItem</value>
+  </data>
+  <data name="RepositoryListBoxItem" xml:space="preserve">
+    <value>RepositoryListBoxItem</value>
+  </data>
+  <data name="RepositoryNameTextBlock" xml:space="preserve">
+    <value>RepositoryNameTextBlock</value>
+  </data>
+  <data name="RepositoryNameTextBox" xml:space="preserve">
+    <value>RepositoryNameTextBox</value>
+  </data>
+  <data name="SearchRepositoryTextBox" xml:space="preserve">
+    <value>SearchRepositoryTextBox</value>
+  </data>
+  <data name="SignInCustom" xml:space="preserve">
+    <value>SignInCustom</value>
+  </data>
+  <data name="SignInDotcomHostTabItem" xml:space="preserve">
+    <value>SignInDotcomHostTabItem</value>
+  </data>
+  <data name="SignInEnterpriseHostTabItem" xml:space="preserve">
+    <value>SignInEnterpriseHostTabItem</value>
+  </data>
+  <data name="SignInHostTab" xml:space="preserve">
+    <value>SignInHostTab</value>
+  </data>
+  <data name="TwoFactorAuthenticationCloseButton" xml:space="preserve">
+    <value>TwoFactorAuthenticationCloseButton</value>
+  </data>
+  <data name="TwoFactorAuthenticationCustom" xml:space="preserve">
+    <value>TwoFactorAuthenticationCustom</value>
+  </data>
+  <data name="TwoFactorAuthenticationInformationTextBlock" xml:space="preserve">
+    <value>TwoFactorAuthenticationInformationTextBlock</value>
+  </data>
+  <data name="TwoFactorAuthenticationLearnMoreHyperlink" xml:space="preserve">
+    <value>TwoFactorAuthenticationLearnMoreHyperlink</value>
+  </data>
+  <data name="TwoFactorAuthenticationTitleBar" xml:space="preserve">
+    <value>TwoFactorAuthenticationTitleBar</value>
+  </data>
+  <data name="TwoFactorAuthenticationWindow" xml:space="preserve">
+    <value>TwoFactorAuthenticationWindow</value>
+  </data>
+  <data name="TwoFactorAuthenticatonInputCustom" xml:space="preserve">
+    <value>TwoFactorAuthenticatonInputCustom</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberFiveTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberFiveTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberFourTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberFourTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberOneTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberOneTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberSixTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberSixTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberThreeTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberThreeTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonNumberTwoTextBox" xml:space="preserve">
+    <value>TwoFactorAuthenticatonNumberTwoTextBox</value>
+  </data>
+  <data name="TwoFactorAuthenticatonVerifyButton" xml:space="preserve">
+    <value>TwoFactorAuthenticatonVerifyButton</value>
   </data>
   <data name="GitHubInfoPanelCancelButton" xml:space="preserve">
     <value>GitHubInfoPanelCancelButton</value>
