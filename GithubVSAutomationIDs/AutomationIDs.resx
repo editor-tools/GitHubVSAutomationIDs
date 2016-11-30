@@ -420,6 +420,78 @@
   <data name="TwoFactorAuthenticatonVerifyButton" xml:space="preserve">
     <value>TwoFactorAuthenticatonVerifyButton</value>
   </data>
+  <data name="CloneHyperlink" xml:space="preserve">
+    <value>CloneHyperlink</value>
+  </data>
+  <data name="ConnectToGitHubMenuItem" xml:space="preserve">
+    <value>ConnectToGitHubMenuItem</value>
+  </data>
+  <data name="CreateHyperlink" xml:space="preserve">
+    <value>CreateHyperlink</value>
+  </data>
+  <data name="GitHubConnectContentCustom" xml:space="preserve">
+    <value>GitHubConnectContentCustom</value>
+  </data>
+  <data name="GitHubHomeContentCustom" xml:space="preserve">
+    <value>GitHubHomeContentCustom</value>
+  </data>
+  <data name="SignInHyperlink" xml:space="preserve">
+    <value>SignInHyperlink</value>
+  </data>
+  <data name="SignOutHyperlink" xml:space="preserve">
+    <value>SignOutHyperlink</value>
+  </data>
+  <data name="TeamExplorerConnectGitHubSectionButton" xml:space="preserve">
+    <value>TeamExplorerConnectGitHubSectionButton</value>
+  </data>
+  <data name="TeamExplorerConnectGitHubSectionTextBlock" xml:space="preserve">
+    <value>TeamExplorerConnectGitHubSectionTextBlock</value>
+  </data>
+  <data name="TeamExplorerHomeGitHubSectionButton" xml:space="preserve">
+    <value>TeamExplorerHomeGitHubSectionButton</value>
+  </data>
+  <data name="TeamExplorerHomeGitHubSectionTextBlock" xml:space="preserve">
+    <value>TeamExplorerHomeGitHubSectionTextBlock</value>
+  </data>
+  <data name="TeamExplorerRepositoryListBoxItem" xml:space="preserve">
+    <value>TeamExplorerRepositoryListBoxItem</value>
+  </data>
+  <data name="TeamExplorerRepositoryListView" xml:space="preserve">
+    <value>TeamExplorerRepositoryListView</value>
+  </data>
+  <data name="TeamExplorerRepositoryNameTextBlock" xml:space="preserve">
+    <value>TeamExplorerRepositoryNameTextBlock</value>
+  </data>
+  <data name="TeamExplorerRepositoryURLTextBlock" xml:space="preserve">
+    <value>TeamExplorerRepositoryURLTextBlock</value>
+  </data>
+  <data name="TeamExplorerPrivateRepositoryCheckBox" xml:space="preserve">
+    <value>TeamExplorerPrivateRepositoryCheckBox</value>
+  </data>
+  <data name="TeamExplorerPublishAccountComboBox" xml:space="preserve">
+    <value>TeamExplorerPublishAccountComboBox</value>
+  </data>
+  <data name="TeamExplorerPublishHostComboBox" xml:space="preserve">
+    <value>TeamExplorerPublishHostComboBox</value>
+  </data>
+  <data name="TeamExplorerPublishRepositoryButton" xml:space="preserve">
+    <value>TeamExplorerPublishRepositoryButton</value>
+  </data>
+  <data name="TeamExplorerPublishRepositoryDescriptionTextBox" xml:space="preserve">
+    <value>TeamExplorerPublishRepositoryDescriptionTextBox</value>
+  </data>
+  <data name="TeamExplorerPublishRepositoryNameTextBox" xml:space="preserve">
+    <value>TeamExplorerPublishRepositoryNameTextBox</value>
+  </data>
+  <data name="TeamExplorerSyncGitHubRepositoryPublishCustom" xml:space="preserve">
+    <value>TeamExplorerSyncGitHubRepositoryPublishCustom</value>
+  </data>
+  <data name="TeamExplorerSyncGitHubSectionButton" xml:space="preserve">
+    <value>TeamExplorerSyncGitHubSectionButton</value>
+  </data>
+  <data name="TeamExplorerSyncGitHubSectionTextBlock" xml:space="preserve">
+    <value>TeamExplorerSyncGitHubSectionTextBlock</value>
+  </data>
   <data name="GitHubInfoPanelCancelButton" xml:space="preserve">
     <value>GitHubInfoPanelCancelButton</value>
   </data>
