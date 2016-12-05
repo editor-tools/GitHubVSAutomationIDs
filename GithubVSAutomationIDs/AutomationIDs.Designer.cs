@@ -964,7 +964,6 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to SignInModal.
         ///   Looks up a localized string similar to SignInCustom.
         /// </summary>
         public static string SignInCustom {
@@ -1287,9 +1286,9 @@ namespace GithubVSAutomationIDs {
                 return ResourceManager.GetString("SignInToGitHubTextBlock", resourceCulture);
             }
         }
-        
+
         /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationModal.
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonVerifyButton.
         /// </summary>
         public static string TwoFactorAuthenticatonVerifyButton {
             get {
