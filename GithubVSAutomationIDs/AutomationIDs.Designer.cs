@@ -88,6 +88,15 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CloneHyperlink.
+        /// </summary>
+        public static string CloneHyperlink {
+            get {
+                return ResourceManager.GetString("CloneHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CloneRepositoryButton.
         /// </summary>
         public static string CloneRepositoryButton {
@@ -142,6 +151,15 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ConnectToGitHubMenuItem.
+        /// </summary>
+        public static string ConnectToGitHubMenuItem {
+            get {
+                return ResourceManager.GetString("ConnectToGitHubMenuItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to ConnectToGitHubTitleBar.
         /// </summary>
         public static string ConnectToGitHubTitleBar {
@@ -183,24 +201,6 @@ namespace GithubVSAutomationIDs {
         public static string CreateAGitHubRepositoryWindow {
             get {
                 return ResourceManager.GetString("CreateAGitHubRepositoryWindow", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to CloneHyperlink.
-        /// </summary>
-        public static string CloneHyperlink {
-            get {
-                return ResourceManager.GetString("CloneHyperlink", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to ConnectToGitHubMenuItem.
-        /// </summary>
-        public static string ConnectToGitHubMenuItem {
-            get {
-                return ResourceManager.GetString("ConnectToGitHubMenuItem", resourceCulture);
             }
         }
         
@@ -610,16 +610,15 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to LoggedOutViewCustom.
+        ///   Looks up a localized string similar to GitHubToolWindowPane.
         /// </summary>
-        public static string LoggedOutViewCustom {
+        public static string GitHubToolWindowPane {
             get {
-                return ResourceManager.GetString("LoggedOutViewCustom", resourceCulture);
+                return ResourceManager.GetString("GitHubToolWindowPane", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to PowerfulCollaborationTextBlock.
         ///   Looks up a localized string similar to GitignoreComboBox.
         /// </summary>
         public static string GitignoreComboBox {
@@ -710,6 +709,24 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to LoggedOutViewCustom.
+        /// </summary>
+        public static string LoggedOutViewCustom {
+            get {
+                return ResourceManager.GetString("LoggedOutViewCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PowerfulCollaborationTextBlock.
+        /// </summary>
+        public static string PowerfulCollaborationTextBlock {
+            get {
+                return ResourceManager.GetString("PowerfulCollaborationTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to PrivateGistCheckBox.
         /// </summary>
         public static string PrivateGistCheckBox {
@@ -721,23 +738,12 @@ namespace GithubVSAutomationIDs {
         /// <summary>
         ///   Looks up a localized string similar to PrivateRepositoryCheckBox.
         /// </summary>
-        public static string PowerfulCollaborationTextBlock {
+        public static string PrivateRepositoryCheckbox {
             get {
-                return ResourceManager.GetString("PowerfulCollaborationTextBlock", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to PrivateRepositoryCheckBox.
-        /// </summary>
-        public static string PrivateRepositoryCheckbox
-        {
-            get
-            {
                 return ResourceManager.GetString("PrivateRepositoryCheckbox", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   Looks up a localized string similar to PullRequestCreationCancelButton.
         /// </summary>
@@ -955,16 +961,6 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to SignInHyperlink.
-        /// </summary>
-        public static string SignInHyperlink {
-            get {
-                return ResourceManager.GetString("SignInHyperlink", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to SignInModal.
         ///   Looks up a localized string similar to SignInCustom.
         /// </summary>
         public static string SignInCustom {
@@ -1001,119 +997,20 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationCloseButton.
+        ///   Looks up a localized string similar to SignInHyperlink.
         /// </summary>
-        public static string TwoFactorAuthenticationCloseButton {
+        public static string SignInHyperlink {
             get {
-                return ResourceManager.GetString("TwoFactorAuthenticationCloseButton", resourceCulture);
+                return ResourceManager.GetString("SignInHyperlink", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationCustom.
+        ///   Looks up a localized string similar to SignInToGitHubTextBlock.
         /// </summary>
-        public static string TwoFactorAuthenticationCustom {
+        public static string SignInToGitHubTextBlock {
             get {
-                return ResourceManager.GetString("TwoFactorAuthenticationCustom", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationInformationTextBlock.
-        /// </summary>
-        public static string TwoFactorAuthenticationInformationTextBlock {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticationInformationTextBlock", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationLearnMoreHyperlink.
-        /// </summary>
-        public static string TwoFactorAuthenticationLearnMoreHyperlink {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticationLearnMoreHyperlink", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationTitleBar.
-        /// </summary>
-        public static string TwoFactorAuthenticationTitleBar {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticationTitleBar", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationWindow.
-        /// </summary>
-        public static string TwoFactorAuthenticationWindow {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticationWindow", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonInputCustom.
-        /// </summary>
-        public static string TwoFactorAuthenticatonInputCustom {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonInputCustom", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberFiveTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberFiveTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberFiveTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberFourTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberFourTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberFourTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberOneTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberOneTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberOneTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberSixTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberSixTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberSixTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberThreeTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberThreeTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberThreeTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberTwoTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberTwoTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberTwoTextBox", resourceCulture);
+                return ResourceManager.GetString("SignInToGitHubTextBlock", resourceCulture);
             }
         }
         
@@ -1280,16 +1177,124 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to SignInToGitHubTextBlock.
+        ///   Looks up a localized string similar to TwoFactorAuthenticationCloseButton.
         /// </summary>
-        public static string SignInToGitHubTextBlock {
+        public static string TwoFactorAuthenticationCloseButton {
             get {
-                return ResourceManager.GetString("SignInToGitHubTextBlock", resourceCulture);
+                return ResourceManager.GetString("TwoFactorAuthenticationCloseButton", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticationModal.
+        ///   Looks up a localized string similar to TwoFactorAuthenticationCustom.
+        /// </summary>
+        public static string TwoFactorAuthenticationCustom {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticationCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticationInformationTextBlock.
+        /// </summary>
+        public static string TwoFactorAuthenticationInformationTextBlock {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticationInformationTextBlock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticationLearnMoreHyperlink.
+        /// </summary>
+        public static string TwoFactorAuthenticationLearnMoreHyperlink {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticationLearnMoreHyperlink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticationTitleBar.
+        /// </summary>
+        public static string TwoFactorAuthenticationTitleBar {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticationTitleBar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticationWindow.
+        /// </summary>
+        public static string TwoFactorAuthenticationWindow {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticationWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonInputCustom.
+        /// </summary>
+        public static string TwoFactorAuthenticatonInputCustom {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticatonInputCustom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberFiveTextBox.
+        /// </summary>
+        public static string TwoFactorAuthenticatonNumberFiveTextBox {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticatonNumberFiveTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberFourTextBox.
+        /// </summary>
+        public static string TwoFactorAuthenticatonNumberFourTextBox {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticatonNumberFourTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberOneTextBox.
+        /// </summary>
+        public static string TwoFactorAuthenticatonNumberOneTextBox {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticatonNumberOneTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberSixTextBox.
+        /// </summary>
+        public static string TwoFactorAuthenticatonNumberSixTextBox {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticatonNumberSixTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberThreeTextBox.
+        /// </summary>
+        public static string TwoFactorAuthenticatonNumberThreeTextBox {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticatonNumberThreeTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberTwoTextBox.
+        /// </summary>
+        public static string TwoFactorAuthenticatonNumberTwoTextBox {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticatonNumberTwoTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticatonVerifyButton.
         /// </summary>
         public static string TwoFactorAuthenticatonVerifyButton {
             get {

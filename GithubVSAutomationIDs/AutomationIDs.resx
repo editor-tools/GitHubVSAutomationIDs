@@ -528,4 +528,7 @@
   <data name="SignInToGitHubTextBlock" xml:space="preserve">
     <value>SignInToGitHubTextBlock</value>
   </data>
+  <data name="GitHubToolWindowPane" xml:space="preserve">
+    <value>GitHubToolWindowPane</value>
+  </data>
 </root>
