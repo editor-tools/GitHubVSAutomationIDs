@@ -24,4 +24,4 @@ The control type should refer to the type of control being tested. (Pane, Button
 
 Copyright 2017 GitHub, Inc.
 
-Licensed under the [MIT License]()
+Licensed under the [MIT License](LICENSE.md)
