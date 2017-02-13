@@ -3,7 +3,7 @@ using System.Collections;
 using System.Globalization;
 using System.Resources;
 
-namespace GithubVSAutomationIDs
+namespace GitHub.VisualStudio.TestAutomation
 {
     [TestClass]
     public class ResourceValueTest

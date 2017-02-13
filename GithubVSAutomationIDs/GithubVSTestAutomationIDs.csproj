@@ -7,8 +7,8 @@
     <ProjectGuid>{665078F4-5875-431D-A2CC-421849B43328}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GithubVSAutomationIDs</RootNamespace>
-    <AssemblyName>GithubVSAutomationIDs</AssemblyName>
+    <RootNamespace>GitHub.VisualStudio.TestAutomation</RootNamespace>
+    <AssemblyName>GitHub.VisualStudio.TestAutomation</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

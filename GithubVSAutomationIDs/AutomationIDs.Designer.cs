@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GithubVSAutomationIDs {
+namespace GitHub.VisualStudio.TestAutomation {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace GithubVSAutomationIDs {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GithubVSAutomationIDs.AutomationIDs", typeof(AutomationIDs).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GitHub.VisualStudio.TestAutomation.AutomationIDs", typeof(AutomationIDs).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -961,15 +961,6 @@ namespace GithubVSAutomationIDs {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to SignInHyperlink.
-        /// </summary>
-        public static string SignInHyperlink {
-            get {
-                return ResourceManager.GetString("SignInHyperlink", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to SignInCustom.
         /// </summary>
         public static string SignInCustom {
@@ -1004,7 +995,16 @@ namespace GithubVSAutomationIDs {
                 return ResourceManager.GetString("SignInHostTab", resourceCulture);
             }
         }
-                
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SignInHyperlink.
+        /// </summary>
+        public static string SignInHyperlink {
+            get {
+                return ResourceManager.GetString("SignInHyperlink", resourceCulture);
+            }
+        }
+        
         /// <summary>
         ///   Looks up a localized string similar to SignInToGitHubTextBlock.
         /// </summary>
@@ -1292,7 +1292,7 @@ namespace GithubVSAutomationIDs {
                 return ResourceManager.GetString("TwoFactorAuthenticatonNumberTwoTextBox", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   Looks up a localized string similar to TwoFactorAuthenticatonVerifyButton.
         /// </summary>
