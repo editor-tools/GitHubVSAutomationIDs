@@ -1004,16 +1004,7 @@ namespace GithubVSAutomationIDs {
                 return ResourceManager.GetString("SignInHostTab", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to SignInHyperlink.
-        /// </summary>
-        public static string SignInHyperlink {
-            get {
-                return ResourceManager.GetString("SignInHyperlink", resourceCulture);
-            }
-        }
-        
+                
         /// <summary>
         ///   Looks up a localized string similar to SignInToGitHubTextBlock.
         /// </summary>
