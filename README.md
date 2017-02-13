@@ -19,3 +19,9 @@ If either of those properties are not accessible (empty), or not clear enough th
 - Function (Creates, Deletes, etc)
 
 The control type should refer to the type of control being tested. (Pane, Button, Custom etc)
+
+# Copyright
+
+Copyright 2017 GitHub, Inc.
+
+Licensed under the [MIT License]()
