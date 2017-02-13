@@ -11,7 +11,7 @@ namespace GitHub.VisualStudio.TestAutomation
         [TestMethod]
         public void ValueAndNameAreTheSame()
         {
-            ResourceSet autoIDResourceSet = AutomationIDs.ResourceManager.GetResourceSet(CultureInfo.CurrentUICulture, false, true);
+            ResourceSet autoIDResourceSet = AutomationIDs.ResourceManager.GetResourceSet(CultureInfo.CurrentUICulture, true, true);
             foreach (DictionaryEntry entry in autoIDResourceSet)
             {
                 var key = entry.Key.ToString();

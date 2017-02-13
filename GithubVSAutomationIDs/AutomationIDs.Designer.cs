@@ -297,9 +297,9 @@ namespace GitHub.VisualStudio.TestAutomation {
         /// <summary>
         ///   Looks up a localized string similar to CreateRepositoryLocalPathBrowseButton.
         /// </summary>
-        public static string CreateRepositoryLocalPathBrowsePathButton {
+        public static string CreateRepositoryLocalPathBrowseButton {
             get {
-                return ResourceManager.GetString("CreateRepositoryLocalPathBrowsePathButton", resourceCulture);
+                return ResourceManager.GetString("CreateRepositoryLocalPathBrowseButton", resourceCulture);
             }
         }
         
@@ -421,7 +421,7 @@ namespace GitHub.VisualStudio.TestAutomation {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to GistAccounImage.
+        ///   Looks up a localized string similar to GistAccountImage.
         /// </summary>
         public static string GistAccountImage {
             get {
@@ -738,9 +738,9 @@ namespace GitHub.VisualStudio.TestAutomation {
         /// <summary>
         ///   Looks up a localized string similar to PrivateRepositoryCheckBox.
         /// </summary>
-        public static string PrivateRepositoryCheckbox {
+        public static string PrivateRepositoryCheckBox {
             get {
-                return ResourceManager.GetString("PrivateRepositoryCheckbox", resourceCulture);
+                return ResourceManager.GetString("PrivateRepositoryCheckBox", resourceCulture);
             }
         }
         
