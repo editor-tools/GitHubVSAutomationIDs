@@ -556,6 +556,15 @@ namespace GitHub.VisualStudio.TestAutomation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to GitHubPaneView.
+        /// </summary>
+        public static string GitHubPaneView {
+            get {
+                return ResourceManager.GetString("GitHubPaneView", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to GitHubTabItem.
         /// </summary>
         public static string GitHubTabItem {
@@ -606,15 +615,6 @@ namespace GitHub.VisualStudio.TestAutomation {
         public static string GitHubToolBarRefreshImage {
             get {
                 return ResourceManager.GetString("GitHubToolBarRefreshImage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to GitHubToolWindowPane.
-        /// </summary>
-        public static string GitHubToolWindowPane {
-            get {
-                return ResourceManager.GetString("GitHubToolWindowPane", resourceCulture);
             }
         }
         
