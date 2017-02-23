@@ -399,24 +399,6 @@
   <data name="TwoFactorAuthenticatonInputCustom" xml:space="preserve">
     <value>TwoFactorAuthenticatonInputCustom</value>
   </data>
-  <data name="TwoFactorAuthenticatonNumberFiveTextBox" xml:space="preserve">
-    <value>TwoFactorAuthenticatonNumberFiveTextBox</value>
-  </data>
-  <data name="TwoFactorAuthenticatonNumberFourTextBox" xml:space="preserve">
-    <value>TwoFactorAuthenticatonNumberFourTextBox</value>
-  </data>
-  <data name="TwoFactorAuthenticatonNumberOneTextBox" xml:space="preserve">
-    <value>TwoFactorAuthenticatonNumberOneTextBox</value>
-  </data>
-  <data name="TwoFactorAuthenticatonNumberSixTextBox" xml:space="preserve">
-    <value>TwoFactorAuthenticatonNumberSixTextBox</value>
-  </data>
-  <data name="TwoFactorAuthenticatonNumberThreeTextBox" xml:space="preserve">
-    <value>TwoFactorAuthenticatonNumberThreeTextBox</value>
-  </data>
-  <data name="TwoFactorAuthenticatonNumberTwoTextBox" xml:space="preserve">
-    <value>TwoFactorAuthenticatonNumberTwoTextBox</value>
-  </data>
   <data name="TwoFactorAuthenticatonVerifyButton" xml:space="preserve">
     <value>TwoFactorAuthenticatonVerifyButton</value>
   </data>
@@ -530,5 +512,8 @@
   </data>
   <data name="GitHubPaneView" xml:space="preserve">
     <value>GitHubPaneView</value>
+  </data>
+  <data name="TwoFactorAuthenticationInputStackPanel" xml:space="preserve">
+    <value>TwoFactorAuthenticationInputStackPanel</value>
   </data>
 </root>

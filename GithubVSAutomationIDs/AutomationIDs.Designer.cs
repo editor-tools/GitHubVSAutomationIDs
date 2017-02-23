@@ -1204,6 +1204,15 @@ namespace GitHub.VisualStudio.TestAutomation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to TwoFactorAuthenticationInputStackPanel.
+        /// </summary>
+        public static string TwoFactorAuthenticationInputStackPanel {
+            get {
+                return ResourceManager.GetString("TwoFactorAuthenticationInputStackPanel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to TwoFactorAuthenticationLearnMoreHyperlink.
         /// </summary>
         public static string TwoFactorAuthenticationLearnMoreHyperlink {
@@ -1236,60 +1245,6 @@ namespace GitHub.VisualStudio.TestAutomation {
         public static string TwoFactorAuthenticatonInputCustom {
             get {
                 return ResourceManager.GetString("TwoFactorAuthenticatonInputCustom", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberFiveTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberFiveTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberFiveTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberFourTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberFourTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberFourTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberOneTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberOneTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberOneTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberSixTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberSixTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberSixTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberThreeTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberThreeTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberThreeTextBox", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to TwoFactorAuthenticatonNumberTwoTextBox.
-        /// </summary>
-        public static string TwoFactorAuthenticatonNumberTwoTextBox {
-            get {
-                return ResourceManager.GetString("TwoFactorAuthenticatonNumberTwoTextBox", resourceCulture);
             }
         }
         
