@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9453C37F-44CF-463D-B563-5C3110CEF5E7}</ProjectGuid>
+    <ProjectGuid>{665078F4-5875-431D-A2CC-421849B43328}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GitHub.VisualStudio.TestAutomation</RootNamespace>
-    <AssemblyName>GitHub.VisualStudio.TestAutomation.AutomationIDs</AssemblyName>
+    <AssemblyName>GitHub.VisualStudio.TestAutomation.AutomationIDs.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,6 +30,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,21 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AutomationIDs.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>AutomationIDs.resx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="AutomationIDs.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>AutomationIDs.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
+    <Compile Include="ResourceValueTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GithubVSAutomationIDs\GithubVSTestAutomationIDs.csproj">
+      <Project>{9453c37f-44cf-463d-b563-5c3110cef5e7}</Project>
+      <Name>GithubVSTestAutomationIDs</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
