@@ -20,5 +20,14 @@ namespace GitHub.VisualStudio.TestAutomation
                 Assert.AreEqual(value, key);
             }
         }
+
+        [TestMethod]
+        public void CheckStrongNamed()
+        {
+            var assemblyName = typeof(AutomationIDs).Assembly.GetName();
+            var publicKey = assemblyName.GetPublicKey();
+
+            Assert.AreNotEqual(0, publicKey.Length, "The extension requires this assembly to be signed");
+        }
     }
 }
