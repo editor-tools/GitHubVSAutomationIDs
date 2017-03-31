@@ -48,8 +48,8 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GithubVSAutomationIDs\GithubVSTestAutomationIDs.csproj">
-      <Project>{9453c37f-44cf-463d-b563-5c3110cef5e7}</Project>
+    <ProjectReference Include="..\GithubVSTestAutomationIDs\GithubVSTestAutomationIDs.csproj">
+      <Project>{665078F4-5875-431D-A2CC-421849B43328}</Project>
       <Name>GithubVSTestAutomationIDs</Name>
     </ProjectReference>
   </ItemGroup>
