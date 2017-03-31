@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubVSTestAutomationIDs", "GithubVSAutomationIDs\GithubVSTestAutomationIDs.csproj", "{9453C37F-44CF-463D-B563-5C3110CEF5E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubVSTestAutomationIDs", "GithubVSTestAutomationIDs\GithubVSTestAutomationIDs.csproj", "{665078F4-5875-431D-A2CC-421849B43328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubVSTestAutomationIDs.Tests", "GithubVSAutomationIDs.Tests\GithubVSTestAutomationIDs.Tests.csproj", "{665078F4-5875-431D-A2CC-421849B43328}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubVSTestAutomationIDs.Tests", "GithubVSTestAutomationIDs.Tests\GithubVSTestAutomationIDs.Tests.csproj", "{9453C37F-44CF-463D-B563-5C3110CEF5E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
